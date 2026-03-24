@@ -26,19 +26,20 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 ### Actividad 1: Generación de Mapas Paramétricos ($T1$ y $T2$)
 Antes de analizar la severidad, es fundamental entender cómo se transforman las señales de RM en mapas cuantitativos que reflejan propiedades tisulares reales.
 * **Objetivo:** Calcular mapas de tiempos de relajación longitudinal ($T1$) y transversal ($T2$) utilizando modelos de ajuste no lineal.
-* **Datos:** Se utiliza el archivo `dicom_images.mat` (ubicado en `Figuras/`) que contiene secuencias con diferentes tiempos de eco (TE) y tiempos de inversión (TI).
+* **Datos:** Se utiliza el archivo `dicom_images.mat` (ubicado en `Dataset/`) que contiene secuencias con diferentes tiempos de eco (TE) y tiempos de inversión (TI).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
 
 ### Actividad 2: Mapas de Difusión ($DTI$)
 Procesamiento de imágenes de difusión para la reconstrucción de tensores ($DTI$) y generación de mapas de microestructura tisular ($FA$, $MD$) utilizando archivos volumétricos `.nii.gz`.
 * **Objetivo:** Procesar imágenes ponderadas por difusión para obtener mapas de Fracción de Anisotropía ($FA$) y Difusividad Media ($MD$), esenciales para caracterizar la infiltración tumoral.
-* **Datos:** Imágenes en formato NIfTI (.nii.gz) del paciente anonimizado.
+* **Datos:** Imágenes en formato NIfTI (.nii.gz) del paciente anonimizado (ubicado en `Dataset/`).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
 ### Actividad 3: Predicción de Severidad con IA (Radiómica)
 Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la severidad del tumor más allá de la clasificación binaria tradicional.
 * **IA de Caja Blanca:** Modelos interpretables con **SHAP** para validación clínica y transparencia médica.
+* **Datos:** `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes (ubicado en `Dataset/`).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Glioma_classification.ipynb)
 
 ---
