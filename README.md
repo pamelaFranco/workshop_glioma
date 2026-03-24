@@ -30,7 +30,7 @@ Antes de analizar la severidad, es fundamental entender cómo se transforman las
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
 
-###Actividad 2: Mapas de Difusión ($DTI$)
+### Actividad 2: Mapas de Difusión ($DTI$)
 Procesamiento de imágenes de difusión para la reconstrucción de tensores ($DTI$) y generación de mapas de microestructura tisular ($FA$, $MD$) utilizando archivos volumétricos `.nii.gz`.
 * **Objetivo:** Procesar imágenes ponderadas por difusión para obtener mapas de Fracción de Anisotropía ($FA$) y Difusividad Media ($MD$), esenciales para caracterizar la infiltración tumoral.
 * **Datos:** Imágenes en formato NIfTI (.nii.gz) del paciente anonimizado.
