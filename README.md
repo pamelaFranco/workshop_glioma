@@ -2,7 +2,8 @@
 
 Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra dos fases críticas del análisis de imágenes médicas:
 1. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
-2. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
+2. **Microestructura Tisular:** Procesamiento de Tensores de Difusión (DTI) para evaluar la integridad de la sustancia blanca.
+3. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
 
 ![Banner](Figuras/banner.png)
 
@@ -28,7 +29,14 @@ Antes de analizar la severidad, es fundamental entender cómo se transforman las
 * **Datos:** Se utiliza el archivo `dicom_images.mat` (ubicado en `Figuras/`) que contiene secuencias con diferentes tiempos de eco (TE) y tiempos de inversión (TI).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
-### Actividad 2: Predicción de Severidad con IA (Radiómica)
+
+###Actividad 2: Mapas de Difusión ($DTI$)
+Procesamiento de imágenes de difusión para la reconstrucción de tensores ($DTI$) y generación de mapas de microestructura tisular ($FA$, $MD$) utilizando archivos volumétricos `.nii.gz`.
+* **Objetivo:** Procesar imágenes ponderadas por difusión para obtener mapas de Fracción de Anisotropía ($FA$) y Difusividad Media ($MD$), esenciales para caracterizar la infiltración tumoral.
+* **Datos:** Imágenes en formato NIfTI (.nii.gz) del paciente anonimizado.
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
+
+### Actividad 3: Predicción de Severidad con IA (Radiómica)
 Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la severidad del tumor más allá de la clasificación binaria tradicional.
 * **IA de Caja Blanca:** Modelos interpretables con **SHAP** para validación clínica y transparencia médica.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Glioma_classification.ipynb)
@@ -39,8 +47,10 @@ Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la se
 
 * **`Code/`**: 
     * `T1_T2_maps.ipynb`: Notebook para el cálculo de mapas paramétricos.
+    * `DTI_mapas_difusion.ipynb`: Procesamiento de tensores de difusión.
     * `Glioma_classification.ipynb`: Notebook de clasificación y explicabilidad.
 * **`Dataset/`**: 
+    * `DATOS_ANONIMIZADOS_WORKSHOP/`: Contiene los archivos .nii.gz $T1$, $T2$, Difusión, Máscaras) de un paciente real anonimizado para pruebas de segmentación y tensores.
     * `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes.
 * **`Figuras/`**: 
     * `dicom_images.mat`: Datos crudos de RM para la Actividad 1.
@@ -76,7 +86,7 @@ El modelo utiliza los 6 biomarcadores más robustos identificados en el estudio 
 ## Requisitos Técnicos (Uso Local)
 Si prefieres ejecutar el código localmente, asegúrate de tener instalado:
 * Python 3.10+
-* Pandas, Numpy, Scikit-learn
+* Pandas, Numpy, Scikit-learn, Nibabel, Diby, Nilearn
 * SHAP (Interpretability)
 * Matplotlib, Ipywidgets, Scipy (para archivos .mat)
 
