@@ -21,7 +21,7 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
 ---
 
-## 🔬 Actividades del Workshop
+## Actividades del Workshop
 
 ### Actividad 1: Generación de Mapas Paramétricos ($T1$ y $T2$)
 Antes de analizar la severidad, es fundamental entender cómo se transforman las señales de RM en mapas cuantitativos que reflejan propiedades tisulares reales.
