@@ -93,7 +93,7 @@ Si prefieres ejecutar el código localmente, asegúrate de tener instalado:
 ---
 
 ## Cita
-Si utilizas este código o dataset para tu investigación, por favor cita el artículo original:
+Si utilizas este código o dataset para tu investigación, por favor cita los siguientes trabajos:
 
 ```bibtex
 @article{Franco2026Glioma,
