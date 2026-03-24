@@ -106,7 +106,7 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
 
 @inproceedings{Franco2025ICPRS,
   title={Radiomic Glioma Grading Using T1-weighted MRI vs. Diffusion Tensor Metrics: A Proof-of-Concept Comparative Analysis with Explainable Machine Learning},
-  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, M. Daniela and others},
+  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, and others},
   booktitle={2025 15th IEEE International Conference on Pattern Recognition Systems (ICPRS)},
   year={2025},
   publisher={IEEE},
