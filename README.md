@@ -51,10 +51,10 @@ Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la se
     * `DTI_mapas_difusion.ipynb`: Procesamiento de tensores de difusión.
     * `Glioma_classification.ipynb`: Notebook de clasificación y explicabilidad.
 * **`Dataset/`**: 
+    * `dicom_images.mat`: Datos crudos de RM para la Actividad 1.
     * `DATOS_ANONIMIZADOS_WORKSHOP/`: Contiene los archivos .nii.gz $T1$, $T2$, Difusión, Máscaras) de un paciente real anonimizado para pruebas de segmentación y tensores.
     * `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes.
 * **`Figuras/`**: 
-    * `dicom_images.mat`: Datos crudos de RM para la Actividad 1.
     * Recursos visuales y diagramas explicativos.
 
 ---
