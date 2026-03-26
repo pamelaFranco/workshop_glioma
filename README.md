@@ -1,6 +1,7 @@
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
-Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra dos fases críticas del análisis de imágenes médicas:
+Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cuatro fases críticas del análisis de imágenes médicas:
+1. **Fundamentos del Espacio K y Formación de Imágenes:** Exploración interactiva del dominio de la frecuencia en resonancia magnética (RM). Se analiza cómo se codifica la información espacial y cómo el filtrado de bajas y altas frecuencias impacta en el contraste y la resolución de la imagen diagnóstica.
 1. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
 2. **Microestructura Tisular:** Procesamiento de Tensores de Difusión (DTI) para evaluar la integridad de la sustancia blanca.
 3. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
@@ -23,20 +24,27 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
 ## Actividades del Workshop
 
-### Actividad 1: Generación de Mapas Paramétricos ($T1$ y $T2$)
+
+### Actividad 1: Fundamentos del Espacio K y Formación de Imágenes
+Antes de analizar la patología, exploramos cómo se codifica la señal de resonancia magnética en el dominio de la frecuencia.
+* **Objetivo:** Comprender la relación entre el Espacio K y la imagen real mediante la Transformada de Fourier, visualizando cómo el centro y la periferia del espacio K afectan el contraste y la resolución.
+* **Interactividad:** Incluye un simulador para filtrar frecuencias en tiempo real y observar el impacto en la detección visual de estructuras cerebrales y tumores.
+* **Datos:** Se utiliza el archivo `dicom_images.mat`.
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ENLACE_A_TU_NUEVO_NOTEBOOK_AQUÍ)
+
+### Actividad 2: Generación de Mapas Paramétricos ($T1$ y $T2$)
 Antes de analizar la severidad, es fundamental entender cómo se transforman las señales de RM en mapas cuantitativos que reflejan propiedades tisulares reales.
 * **Objetivo:** Calcular mapas de tiempos de relajación longitudinal ($T1$) y transversal ($T2$) utilizando modelos de ajuste no lineal.
 * **Datos:** Se utiliza el archivo `dicom_images.mat` (ubicado en `Dataset/`) que contiene secuencias con diferentes tiempos de eco (TE) y tiempos de inversión (TI).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
-
-### Actividad 2: Mapas de Difusión ($DTI$)
+### Actividad 3: Mapas de Difusión ($DTI$)
 Procesamiento de imágenes de difusión para la reconstrucción de tensores ($DTI$) y generación de mapas de microestructura tisular ($FA$, $MD$) utilizando archivos volumétricos `.nii.gz`.
 * **Objetivo:** Procesar imágenes ponderadas por difusión para obtener mapas de Fracción de Anisotropía ($FA$) y Difusividad Media ($MD$), esenciales para caracterizar la infiltración tumoral.
 * **Datos:** Imágenes en formato NIfTI (.nii.gz) del paciente anonimizado (ubicado en `Dataset/`).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
-### Actividad 3: Predicción de Severidad con IA (Radiómica)
+### Actividad 4: Predicción de Severidad con IA (Radiómica)
 Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la severidad del tumor más allá de la clasificación binaria tradicional.
 * **IA de Caja Blanca:** Modelos interpretables con **SHAP** para validación clínica y transparencia médica.
 * **Datos:** `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes (ubicado en `Dataset/`).
@@ -47,11 +55,13 @@ Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la se
 ## Estructura del Repositorio
 
 * **`Code/`**: 
+    * `EspacioK.ipynb`: Notebook para exploración interactiva del dominio de la frecuencia.
     * `T1_T2_maps.ipynb`: Notebook para el cálculo de mapas paramétricos.
     * `DTI_mapas_difusion.ipynb`: Procesamiento de tensores de difusión.
     * `Glioma_classification.ipynb`: Notebook de clasificación y explicabilidad.
 * **`Dataset/`**: 
-    * `dicom_images.mat`: Datos crudos de RM para la Actividad 1.
+    * `T1w_SE.mat`: Datos crudos de RM para la Actividad 1.
+    * `dicom_images.mat`: Datos crudos de RM para la Actividad 2.
     * `DATOS_ANONIMIZADOS_WORKSHOP/`: Contiene los archivos .nii.gz $T1$, $T2$, Difusión, Máscaras) de un paciente real anonimizado para pruebas de segmentación y tensores.
     * `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes.
 * **`Figuras/`**: 
