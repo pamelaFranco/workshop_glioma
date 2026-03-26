@@ -30,7 +30,7 @@ Antes de analizar la patología, exploramos cómo se codifica la señal de reson
 * **Objetivo:** Comprender la relación entre el Espacio K y la imagen real mediante la Transformada de Fourier, visualizando cómo el centro y la periferia del espacio K afectan el contraste y la resolución.
 * **Interactividad:** Incluye un simulador para filtrar frecuencias en tiempo real y observar el impacto en la detección visual de estructuras cerebrales y tumores.
 * **Datos:** Se utiliza el archivo `T1w_SE.mat`.
-* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/EspacioK.ipynb)
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/EspacioK.ipynb)
 
 ### Actividad 2: Generación de Mapas Paramétricos ($T1$ y $T2$)
 Antes de analizar la severidad, es fundamental entender cómo se transforman las señales de RM en mapas cuantitativos que reflejan propiedades tisulares reales.
