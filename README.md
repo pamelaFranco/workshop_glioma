@@ -1,10 +1,11 @@
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
-Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cuatro fases críticas del análisis de imágenes médicas:
+Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cinco fases críticas del análisis de imágenes médicas:
 1. **Fundamentos del Espacio K y Formación de Imágenes:** Exploración interactiva del dominio de la frecuencia en resonancia magnética (RM). Se analiza cómo se codifica la información espacial y cómo el filtrado de bajas y altas frecuencias impacta en el contraste y la resolución de la imagen diagnóstica.
-1. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
-2. **Microestructura Tisular:** Procesamiento de Tensores de Difusión (DTI) para evaluar la integridad de la sustancia blanca.
-3. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
+2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
+3. **Microestructura Tisular:** Procesamiento de Tensores de Difusión (DTI) para evaluar la integridad de la sustancia blanca.
+4. **Hemodinámica y Biomecánica:** Reconstrucción de la vasculatura cerebral mediante secuencias TOF y análisis de flujo
+5. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
 
 ![Banner](Figuras/banner.png)
 
@@ -43,7 +44,13 @@ Procesamiento de imágenes de difusión para la reconstrucción de tensores ($DT
 * **Datos:** Imágenes en formato NIfTI (.nii.gz) del paciente anonimizado (ubicado en `Dataset/`).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
-### Actividad 4: Predicción de Severidad con IA (Radiómica)
+### Actividad 4: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
+Análisis de la señal física proveniente del flujo sanguínea mediante secuencias $Time-of-Flight$ ($TOF-MRA$)utilizando archivos volumétricos `.dcm`.
+* **Objetivo:** Reconstrucción de la vasculatura mediante Proyección de Máxima Intensidad ($MIP$) para evaluar la angiogénesis cerebral.
+* **Datos:** Imágenes en formato DICOM (.dcm) del paciente anonimizado (ubicado en `Dataset/`).
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Vasculatura_Cerebral.ipynb)
+
+### Actividad 5: Predicción de Severidad con IA (Radiómica)
 Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la severidad del tumor más allá de la clasificación binaria tradicional.
 * **IA de Caja Blanca:** Modelos interpretables con **SHAP** para validación clínica y transparencia médica.
 * **Datos:** `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes (ubicado en `Dataset/`).
@@ -57,12 +64,14 @@ Exploración de cómo biomarcadores cuantitativos de imagen pueden modelar la se
     * `EspacioK.ipynb`: Notebook para exploración interactiva del dominio de la frecuencia.
     * `T1_T2_maps.ipynb`: Notebook para el cálculo de mapas paramétricos.
     * `DTI_mapas_difusion.ipynb`: Procesamiento de tensores de difusión.
+    * `Vasculatura_Cerebral.ipynb`: Notebook de reconstrucción de vasculatura cerebral usando imágenes adquiridas usando $TOF-MRA$.
     * `Glioma_classification.ipynb`: Notebook de clasificación y explicabilidad.
 * **`Dataset/`**: 
     * `T1w_SE.mat`: Datos crudos de RM para la Actividad 1.
     * `dicom_images.mat`: Datos crudos de RM para la Actividad 2.
-    * `DATOS_ANONIMIZADOS_WORKSHOP/`: Contiene los archivos .nii.gz $T1$, $T2$, Difusión, Máscaras) de un paciente real anonimizado para pruebas de segmentación y tensores.
-    * `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes.
+    * `DATOS_ANONIMIZADOS_WORKSHOP/`: Contiene los archivos .nii.gz $T1$, $T2$, Difusión, Máscaras) de un paciente real anonimizado para pruebas de segmentación y tensores, para la Actividad 3.
+    * `IM_0013_ANON.dcm`: Imágenes $TOF-MRA$ adquiridas en un resonador 3T en formato DICOM para la Actividad 4.
+    * `dataset_workshop_limpio.csv`: 6 características radiómicas seleccionadas por SFS para 36 pacientes para la Actividad 4.
 * **`Figuras/`**: 
     * Recursos visuales y diagramas explicativos.
 
