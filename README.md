@@ -90,7 +90,7 @@ Si prefieres ejecución local, requiere:
 
 ---
 
-## Respaldo Científico
+## Respaldo Científico y Cita
 
 Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
@@ -103,9 +103,6 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 > **Instituciones:** Universidad Andrés Bello - Pontificia Universidad Católica de Chile - Hospital Carlos Van Buren - Universidad de Valparaiso - Universidad Tecnológica Metropolitana - Millennium Institute for Intelligent Healthcare Engineering (iHEALTH).
 
 
----
-
-## Cita
 Si utilizas este código o dataset para tu investigación, por favor cita los siguientes trabajos:
 
 ```bibtex
