@@ -4,6 +4,10 @@
 
 [![Descargar Programa](https://img.shields.io/badge/Descargar-Programa_del_Workshop-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf)
 
+[![Inscripción](https://img.shields.io/badge/INSCRÍBETE_AQUÍ-Workshop-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing)
+
+[Haz clic aquí para enviar tu abstract](https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing)
+
 Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cinco fases críticas del análisis de imágenes médicas:
 1. **Fundamentos del Espacio K y Formación de Imágenes:** Exploración interactiva del dominio de la frecuencia en resonancia magnética (RM). Se analiza cómo se codifica la información espacial y cómo el filtrado de bajas y altas frecuencias impacta en el contraste y la resolución de la imagen diagnóstica.
 2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
