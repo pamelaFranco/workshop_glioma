@@ -1,5 +1,7 @@
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
+[![Descargar Programa](https://img.shields.io/badge/Descargar-Programa_del_Workshop-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf)
+
 Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cinco fases críticas del análisis de imágenes médicas:
 1. **Fundamentos del Espacio K y Formación de Imágenes:** Exploración interactiva del dominio de la frecuencia en resonancia magnética (RM). Se analiza cómo se codifica la información espacial y cómo el filtrado de bajas y altas frecuencias impacta en el contraste y la resolución de la imagen diagnóstica.
 2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
@@ -7,7 +9,6 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 4. **Hemodinámica y Biomecánica:** Reconstrucción de la vasculatura cerebral mediante secuencias TOF y análisis de flujo
 5. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
 
-[![Descargar Programa](https://img.shields.io/badge/Descargar-Programa_del_Workshop-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf)
 
 ![Banner](Figuras/banner.png)
 
