@@ -6,8 +6,6 @@
 
 [![Inscripción](https://img.shields.io/badge/INSCRÍBETE_AQUÍ-Workshop-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing)
 
-[Haz clic aquí para enviar tu abstract](https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing)
-
 Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cinco fases críticas del análisis de imágenes médicas:
 1. **Fundamentos del Espacio K y Formación de Imágenes:** Exploración interactiva del dominio de la frecuencia en resonancia magnética (RM). Se analiza cómo se codifica la información espacial y cómo el filtrado de bajas y altas frecuencias impacta en el contraste y la resolución de la imagen diagnóstica.
 2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$) a partir de datos crudos.
@@ -95,17 +93,40 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 ---
 
-## Características Radiómicas Incluidas
-El modelo utiliza los 6 biomarcadores más robustos identificados en el estudio mediante SFS:
-* **First-Order:** Skewness T1, Range T1, Robust Mean Absolute Deviation Difusividad Axial (AD).
-* **Texture (GLCM/GLDM/GLRLM):** Contrast T1, Small Dependence High Gray Level Emphasis T1, Short Run Low Gray Level Emphasis T1.
+## Envío de Resúmenes (Abstracts)
 
----
+Invitamos a estudiantes de pregrado y posgrado, residentes, fellows, especialistas en radiología y neurooncología, así como a investigadores en IA y ciencia de datos a presentar sus trabajos.
 
-## Características del Proyecto
-* **Optimización de Hiperparámetros:** Uso de `RandomizedSearchCV` para garantizar que el modelo Random Forest sea robusto.
-* **Validación Cruzada (CV):** Evaluación en múltiples rondas para asegurar la estabilidad clínica del diagnóstico.
-* **IA Interpretable (XAI):** Panel interactivo con **SHAP** para explicar la asignación de grado a cada paciente.
+**Temáticas de interés:** Buscamos trabajos innovadores relacionados con neurorradiología y neurooncología, especialmente aquellos que integren:
+
+ * Procesamiento de imágenes médicas.
+
+ * Machine Learning y Deep Learning.
+
+ *Physics-Informed Neural Networks (PINNs).
+
+ * Aplicaciones avanzadas de ciencia de datos en salud.
+
+Por favor envía tu propuesta haciendo clic en el siguiente botón:
+
+[![(Enviar Abstract)](https://img.shields.io/badge/ENVIAR_ABSTRACT-Click_Aquí-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing)
+
+> **Nota:** La fecha límite para la recepción de abstracts es el 15 de noviembre de 2026, 23:59 PM (UTC-3).
+
+## ¿Cómo obtener la plantilla?
+
+Ponemos a tu disposición tres modalidades según tu preferencia de edición:
+
+### Opción A: Formato Word (Descarga Directa)
+Ideal si prefieres trabajar en un procesador de texto tradicional.
+* 📥 [Descargar Plantilla Word desde Google Drive](https://docs.google.com/document/d/1190HBUgn2zWm8GyvswGrgzw2nrgt1yDC/edit?usp=drive_link&ouid=100388382858978154255&rtpof=true&sd=true) 
+
+### Opción B: Formato LaTeX (vía GitHub)
+Para quienes prefieren la edición técnica mediante la interfaz web:
+1. Accede al [Formato LaTeX](https://github.com/pamelaFranco/workshop_glioma/blob/main/Formato%20Abstract/Formato_Resumen___Workshop_IA_Interpretable_Neurooncologia.zip).
+2. Haz clic en el botón verde **"<> Code"** y selecciona **"Download ZIP"**.
+3. Extrae los archivos y abre el archivo `.tex` en tu editor de preferencia (Overleaf, TeXworks, etc.).
+   > **Nota:** Mantén la imagen del banner en la misma carpeta para asegurar una compilación correcta.
 
 ---
 
