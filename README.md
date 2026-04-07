@@ -2,6 +2,18 @@
 
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing">
+    <img src="https://img.shields.io/badge/INSCRÍBETE_AQUÍ-Workshop-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
+    <img src="https://img.shields.io/badge/Descargar-Programa-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing">
+    <img src="https://img.shields.io/badge/ENVIAR_ABSTRACT-Click_Aquí-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 [![Descargar Programa](https://img.shields.io/badge/Descargar-Programa_del_Workshop-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf)
 
 [![Inscripción](https://img.shields.io/badge/INSCRÍBETE_AQUÍ-Workshop-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing)
@@ -12,19 +24,6 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 3. **Microestructura Tisular:** Procesamiento de Tensores de Difusión (DTI) para evaluar la integridad de la sustancia blanca.
 4. **Hemodinámica y Biomecánica:** Reconstrucción de la vasculatura cerebral mediante secuencias TOF y análisis de flujo
 5. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
-
-
-## Respaldo Científico
-
-Este laboratorio virtual implementa los findazgos descritos en el estudio:
-
-> **"Beyond Binary Classification: A Pilot Study of Imaging-Derived Glioma Severity Modeling Using T1-Weighted and Diffusion MRI Radiomics"**
->
-> **Autores:** Pamela Franco, Cristian Montalba, Raúl Caulier-Cisterna, Ignacio Espinoza, M. Daniela Cornejo, Francisco Torres, Carlos Bennett, Steren Chabert, y Rodrigo Salas.
->
-> **Publicación:** *Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)*, 2026. (In Press).
->
-> **Instituciones:** Universidad Andrés Bello - Pontificia Universidad Católica de Chile - Hospital Carlos Van Buren - Universidad de Valparaiso - Universidad Tecnológica Metropolitana - Millennium Institute for Intelligent Healthcare Engineering (iHEALTH).
 
 ---
 
@@ -119,7 +118,7 @@ Ponemos a tu disposición tres modalidades según tu preferencia de edición:
 
 ### Opción A: Formato Word (Descarga Directa)
 Ideal si prefieres trabajar en un procesador de texto tradicional.
-* 📥 [Descargar Plantilla Word desde Google Drive](https://docs.google.com/document/d/1190HBUgn2zWm8GyvswGrgzw2nrgt1yDC/edit?usp=drive_link&ouid=100388382858978154255&rtpof=true&sd=true) 
+* [Descargar Plantilla Word desde Google Drive](https://docs.google.com/document/d/1190HBUgn2zWm8GyvswGrgzw2nrgt1yDC/edit?usp=drive_link&ouid=100388382858978154255&rtpof=true&sd=true) 
 
 ### Opción B: Formato LaTeX (vía GitHub)
 Para quienes prefieren la edición técnica mediante la interfaz web:
@@ -136,6 +135,21 @@ Si prefieres ejecutar el código localmente, asegúrate de tener instalado:
 * Pandas, Numpy, Scikit-learn, Nibabel, Diby, Nilearn
 * SHAP (Interpretability)
 * Matplotlib, Ipywidgets, Scipy (para archivos .mat)
+
+---
+
+## Respaldo Científico
+
+Este laboratorio virtual implementa los findazgos descritos en el estudio:
+
+> **"Beyond Binary Classification: A Pilot Study of Imaging-Derived Glioma Severity Modeling Using T1-Weighted and Diffusion MRI Radiomics"**
+>
+> **Autores:** Pamela Franco, Cristian Montalba, Raúl Caulier-Cisterna, Ignacio Espinoza, M. Daniela Cornejo, Francisco Torres, Carlos Bennett, Steren Chabert, y Rodrigo Salas.
+>
+> **Publicación:** *Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)*, 2026. (In Press).
+>
+> **Instituciones:** Universidad Andrés Bello - Pontificia Universidad Católica de Chile - Hospital Carlos Van Buren - Universidad de Valparaiso - Universidad Tecnológica Metropolitana - Millennium Institute for Intelligent Healthcare Engineering (iHEALTH).
+
 
 ---
 
