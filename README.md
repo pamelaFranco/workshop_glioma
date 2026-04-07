@@ -7,6 +7,8 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 4. **Hemodinámica y Biomecánica:** Reconstrucción de la vasculatura cerebral mediante secuencias TOF y análisis de flujo
 5. **IA Interpretable:** Decodificación de la severidad tumoral mediante radiómica multimodal y Machine Learning.
 
+[![Descargar Programa](https://img.shields.io/badge/Descargar-Programa_del_Workshop-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf)
+
 ![Banner](Figuras/banner.png)
 
 ## Respaldo Científico
