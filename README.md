@@ -33,7 +33,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 1.  **Selecciona el módulo:** Haz clic en el botón **"Open In Colab"** de la actividad deseada.
 2.  **Configuración de Datos:** Los notebooks cargan automáticamente los archivos desde este repositorio. Ejecuta las celdas en orden.
-3.  **Interactividad:** En el módulo del Espacio K, utiliza el slider para mover el control del radio en un filtro de paso bajo circular, de esa forma verás cuánta información permitimos que regrese del dominio de la frecuencia al dominio de la image. Además, en el módulo de la IA, utiliza el slider del "Simulador Clínico" para explorar las explicaciones de SHAP.
+3.  **Interactividad:** En el módulo del Espacio K, utiliza el slider para mover el control del radio en un filtro de paso bajo circular, de esa forma verás cuánta información permitimos que regrese del dominio de la frecuencia al dominio de la imagen. Además, en el módulo de la IA, utiliza el slider del "Simulador Clínico" para explorar las explicaciones de SHAP.
 
 ---
 
