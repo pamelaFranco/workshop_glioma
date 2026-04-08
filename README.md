@@ -78,7 +78,7 @@ Invitamos a investigadores y especialistas a presentar trabajos relacionados con
 * **`Code/`**: Notebooks `.ipynb` de todas las actividades.
 * **`Dataset/`**: Archivos `.mat`, `.nii.gz`, `.dcm` y `.csv` necesarios para los análisis.
 * **`Figuras/`**: Recursos visuales y diagramas explicativos.
-* **`Formato Abstract/`**: Planillas para escribir el resumen (abstract) en formato Word y LaTeX.
+* **`Formato Abstract/`**: Planillas para escribir el resumen ($abstract$) en formato Word y LaTeX.
 * **`Programa/`**: Cronograma del workshop con los expositores y sus horarios.
 ---
 
