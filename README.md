@@ -23,7 +23,7 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$).
 3. **Microestructura Tisular:** Procesamiento de Tensores de Difusión ($DTI$).
 4. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
-5. **IA Interpretable:** Decodificación de severidad mediante radiómica y **SHAP**.
+5. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
 
 ---
 
