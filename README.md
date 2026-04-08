@@ -33,7 +33,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 1.  **Selecciona el módulo:** Haz clic en el botón **"Open In Colab"** de la actividad deseada.
 2.  **Configuración de Datos:** Los notebooks cargan automáticamente los archivos desde este repositorio. Ejecuta las celdas en orden.
-3.  **Interactividad:** En el módulo de IA, utiliza el slider del "Simulador Clínico" para explorar las explicaciones de SHAP.
+3.  **Interactividad:** En el módulo del Espacio K, utiliza el slider para mover el control del radio en un filtro de paso bajo circular, de esa forma verás cuánta información permitimos que regrese del dominio de la frecuencia al dominio de la image. Además, en el módulo de la IA, utiliza el slider del "Simulador Clínico" para explorar las explicaciones de SHAP.
 
 ---
 
@@ -48,11 +48,11 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
 ### Actividad 3: Mapas de Difusión ($DTI$)
-* **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$) y Difusividad Media ($MD$) para caracterizar la infiltración tumoral.
+* **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$), Difusividad Media ($MD$), Difusividad Radial ($RD$) y Difusividad Axial ($AD$) para caracterizar la infiltración tumoral.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
 ### Actividad 4: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
-* **Objetivo:** Reconstrucción de la vasculatura mediante Proyección de Máxima Intensidad ($MIP$).
+* **Objetivo:** Reconstrucción de la vasculatura mediante el uso de imágenes adquiridas en la secuencia Time-Of-Flight ($TOF-MRA$) y la aplicación de la Proyección de Máxima Intensidad ($MIP$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Vasculatura_Cerebral.ipynb)
 
 ### Actividad 5: Predicción de Severidad con IA (Radiómica)
@@ -63,7 +63,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 ## Envío de Resúmenes (Abstracts)
 
-Invitamos a investigadores y especialistas a presentar trabajos relacionados con procesamiento de imágenes médicas, ML/DL y aplicaciones en salud.
+Invitamos a investigadores y especialistas a presentar trabajos relacionados con procesamiento de imágenes médicas, Machine Learning/Deep Learning y aplicaciones en salud.
 
 > **Fecha límite:** 15 de noviembre de 2026, 23:59 PM (UTC-3).
 
