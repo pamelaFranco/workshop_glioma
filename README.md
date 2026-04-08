@@ -61,7 +61,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 ---
 
-## Envío de Resúmenes (Abstracts)
+## Envío de Resúmenes ($Abstracts$)
 
 Invitamos a investigadores y especialistas a presentar trabajos relacionados con procesamiento de imágenes médicas, Machine Learning/Deep Learning y aplicaciones en salud.
 
