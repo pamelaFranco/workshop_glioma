@@ -79,6 +79,7 @@ Invitamos a investigadores y especialistas a presentar trabajos relacionados con
 * **`Dataset/`**: Archivos `.mat`, `.nii.gz`, `.dcm` y `.csv` necesarios para los análisis.
 * **`Figuras/`**: Recursos visuales y diagramas explicativos.
 * **`Formato Abstract/`**: Planillas para escribir el resumen ($abstract$) en formato Word y LaTeX.
+* **`Template/`**: Formato editable de la charla (PPTX).
 * **`Programa/`**: Cronograma del workshop con los expositores y sus horarios.
 ---
 
