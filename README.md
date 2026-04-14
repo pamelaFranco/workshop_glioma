@@ -12,6 +12,9 @@
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing">
     <img src="https://img.shields.io/badge/ENVIAR_ABSTRACT-Click_Aquí-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
+  <a href="mailto:neurooncologia.ia@gmail.com">
+    <img src="https://img.shields.io/badge/CONSULTAS-Email-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
