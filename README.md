@@ -20,11 +20,12 @@
 ---
 
 ## Introducción
-Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra cinco fases críticas del análisis de imágenes médicas:
+Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra seis fases críticas del análisis de imágenes médicas:
 
 1. **Fundamentos del Espacio K:** Exploración del dominio de la frecuencia en RM.
 2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$).
 3. **Microestructura Tisular:** Procesamiento de Tensores de Difusión ($DTI$).
+4. ** Mapeo Funcional:** Exploración de la dinámica de la señal $BOLD$ y $fMRI$.
 4. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
 5. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
 
@@ -51,10 +52,14 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
 ### Actividad 3: Mapas de Difusión ($DTI$)
-* **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$), Difusividad Media ($MD$), Difusividad Radial ($RD$) y Difusividad Axial ($AD$) para caracterizar la infiltración tumoral.
+* **Objetivo:** Mapear la arquitectura funcional del cerebro mediante el análisis de correlaciones de señales de baja frecuencia en estado de reposo ($rs-fMRI$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
-### Actividad 4: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
+### Actividad 4: Mapeo Funcional ($fMRI$)
+* **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$), Difusividad Media ($MD$), Difusividad Radial ($RD$) y Difusividad Axial ($AD$) para caracterizar la infiltración tumoral.
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/fMRI.ipynb)
+
+### Actividad 5: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
 * **Objetivo:** Reconstrucción de la vasculatura mediante el uso de imágenes adquiridas en la secuencia Time-Of-Flight ($TOF-MRA$) y la aplicación de la Proyección de Máxima Intensidad ($MIP$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Vasculatura_Cerebral.ipynb)
 
