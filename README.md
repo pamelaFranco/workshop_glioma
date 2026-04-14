@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing">
-    <img src="https://img.shields.io/badge/INSCRÍBETE_AQUÍ-Workshop-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Inscripción-Workshop-0078D4?style=for-the-badge&logo=googleforms&logoColor=white" />
   </a>
   <a href="https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
-    <img src="https://img.shields.io/badge/Descargar-Programa-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Programa-PDF-E53935?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing">
-    <img src="https://img.shields.io/badge/ENVIAR_ABSTRACT-Click_Aquí-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Abstract-Enviar_aquí-673AB7?style=for-the-badge&logo=googlesheets&logoColor=white" />
   </a>
   <a href="mailto:neurooncologia.ia@gmail.com">
-    <img src="https://img.shields.io/badge/CONSULTAS-Email-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Consultas-Email-F4B400?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
