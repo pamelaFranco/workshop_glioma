@@ -1,4 +1,4 @@
-![Banner](Figuras/banner.png)
+![Banner](Figuras/banner.svg)
 
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
