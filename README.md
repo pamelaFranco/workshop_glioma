@@ -105,13 +105,11 @@ Si prefieres ejecución local, requiere:
 
 Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
-> **"Beyond Binary Classification: A Pilot Study of Imaging-Derived Glioma Severity Modeling Using T1-Weighted and Diffusion MRI Radiomics"**
->
-> **Autores:** Pamela Franco, Cristian Montalba, Raúl Caulier-Cisterna, Ignacio Espinoza, M. Daniela Cornejo, Francisco Torres, Carlos Bennett, Steren Chabert, y Rodrigo Salas.
->
-> **Publicación:** *Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)*, 2026. (DOI : 10.1007/s10334-026-01346-7).
->
-> **Instituciones:** Universidad Andrés Bello - Pontificia Universidad Católica de Chile - Hospital Carlos Van Buren - Universidad de Valparaiso - Universidad Tecnológica Metropolitana - Millennium Institute for Intelligent Healthcare Engineering (iHEALTH).
+<p align="center">
+<a href="https://ieeexplore.ieee.org/document/11302837">
+<img src="https://img.shields.io/badge/Ver_en_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+</a>
+</p>
 
 
 Si utilizas este código o dataset para tu investigación, por favor cita los siguientes trabajos:
@@ -135,13 +133,6 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
 }
 
 ```
----
-
-<p align="center">
-<a href="https://ieeexplore.ieee.org/document/11302837">
-<img src="https://img.shields.io/badge/Ver_en_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-</a>
-</p>
 
 ---
 
