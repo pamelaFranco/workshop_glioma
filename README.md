@@ -107,7 +107,7 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 >
 > **Autores:** Pamela Franco, Cristian Montalba, Raúl Caulier-Cisterna, Ignacio Espinoza, M. Daniela Cornejo, Francisco Torres, Carlos Bennett, Steren Chabert, y Rodrigo Salas.
 >
-> **Publicación:** *Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)*, 2026. (In Press).
+> **Publicación:** *Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)*, 2026. (DOI : 10.1007/s10334-026-01346-7).
 >
 > **Instituciones:** Universidad Andrés Bello - Pontificia Universidad Católica de Chile - Hospital Carlos Van Buren - Universidad de Valparaiso - Universidad Tecnológica Metropolitana - Millennium Institute for Intelligent Healthcare Engineering (iHEALTH).
 
@@ -120,7 +120,7 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
   author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, M. Daniela and others},
   journal={Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)},
   year={2026},
-  note={In Press}
+  note={10.1007/s10334-026-01346-7}
 }
 
 @inproceedings{Franco2025ICPRS,
