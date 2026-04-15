@@ -132,6 +132,11 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
   doi={10.1109/ICPRS64124.2025.11302837}
 }
 
+<p align="center">
+<a href="https://ieeexplore.ieee.org/document/11302837">
+<img src="https://img.shields.io/badge/Ver_en_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+</a>
+</p>
 ```
 ---
 
