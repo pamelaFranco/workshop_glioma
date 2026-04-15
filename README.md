@@ -2,6 +2,8 @@
 
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
+---
+
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing">
     <img src="https://img.shields.io/badge/Inscripción-Workshop-0078D4?style=for-the-badge&logo=googleforms&logoColor=white" />
