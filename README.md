@@ -106,11 +106,13 @@ Si prefieres ejecución local, requiere:
 Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
 <p align="center">
-<a href="https://ieeexplore.ieee.org/document/11302837">
-<img src="https://img.shields.io/badge/Ver_en_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-</a>
+  <a href="https://link.springer.com/article/10.1007/s10334-025-01278-8">
+    <img src="https://img.shields.io/badge/Ver_en_Springer_MAGMA-007A33?style=for-the-badge&logo=springer&logoColor=white" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/11302837">
+    <img src="https://img.shields.io/badge/Ver_en_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
 </p>
-
 
 Si utilizas este código o dataset para tu investigación, por favor cita los siguientes trabajos:
 
