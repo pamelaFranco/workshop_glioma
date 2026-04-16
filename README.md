@@ -150,7 +150,7 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
   pages={201--202},
   year={2025},
   publisher={Springer},
-  doi={10.1007/s10334-025-01278-8},
+  doi={10.1007/s10334-025-01278-8}
 }
 
 ```
