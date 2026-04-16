@@ -136,7 +136,7 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
 
 @article{Franco2025ESMRMB,
   title={Explainable machine learning models for radiomic-based assessment of glioma severity using multiparametric MRI (Abstract \#215)},
-  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Ra{\'u}l and Espinoza, Ignacio and Bennet, Carlos and Torres, Francisco and Chabert, Steren and Salas, Rodrigo},
+  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Bennet, Carlos and Torres, Francisco and Chabert, Steren and Salas, Rodrigo},
   journal={Magnetic Resonance Materials in Physics, Biology and Medicine},
   volume={38},
   number={1},
