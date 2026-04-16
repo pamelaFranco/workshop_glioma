@@ -135,6 +135,7 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
   title={Radiomic Glioma Grading Using T1-weighted MRI vs. Diffusion Tensor Metrics: A Proof-of-Concept Comparative Analysis with Explainable Machine Learning},
   author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, and others},
   booktitle={2025 15th IEEE International Conference on Pattern Recognition Systems (ICPRS)},
+  pages={1--7},
   year={2025},
   publisher={IEEE},
   doi={10.1109/ICPRS64124.2025.11302837}
@@ -150,7 +151,6 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
   year={2025},
   publisher={Springer},
   doi={10.1007/s10334-025-01278-8},
-  url={https://doi.org/10.1007/s10334-025-01278-8}
 }
 
 ```
