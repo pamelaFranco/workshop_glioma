@@ -11,6 +11,12 @@
   <a href="https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
     <img src="https://img.shields.io/badge/Programa-PDF-E53935?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/neuro_artint/">
+    <img src="https://img.shields.io/badge/Instagram-NeuroArtInt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing">
     <img src="https://img.shields.io/badge/Abstract-Enviar_aquí-673AB7?style=for-the-badge&logo=googlesheets&logoColor=white" />
   </a>
@@ -28,8 +34,8 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$).
 3. **Microestructura Tisular:** Procesamiento de Tensores de Difusión ($DTI$).
 4. **Mapeo Funcional:** Exploración de la dinámica de la señal $BOLD$ y $fMRI$.
-4. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
-5. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
+5. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
+6. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
 
 ---
 
@@ -65,7 +71,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 * **Objetivo:** Reconstrucción de la vasculatura mediante el uso de imágenes adquiridas en la secuencia Time-Of-Flight ($TOF-MRA$) y la aplicación de la Proyección de Máxima Intensidad ($MIP$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Vasculatura_Cerebral.ipynb)
 
-### Actividad 5: Predicción de Severidad con IA (Radiómica)
+### Actividad 6: Predicción de Severidad con IA (Radiómica)
 * **Objetivo:** Modelar la severidad del tumor mediante Machine Learning interpretable (Caja Blanca).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Glioma_classification.ipynb)
 
