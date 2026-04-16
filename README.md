@@ -6,22 +6,22 @@
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing">
-    <img src="https://img.shields.io/badge/Inscripción-Workshop-0078D4?style=for-the-badge&logo=googleforms&logoColor=white" />
+    <img src="https://img.shields.io/badge/Inscripción-Workshop-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" />
   </a>
   <a href="https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
-    <img src="https://img.shields.io/badge/Programa-PDF-E53935?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Programa-PDF-A63737?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/neuro_artint/">
-    <img src="https://img.shields.io/badge/Instagram-NeuroArtInt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-NeuroArtInt-F2A20C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing">
-    <img src="https://img.shields.io/badge/Abstract-Enviar_aquí-673AB7?style=for-the-badge&logo=googlesheets&logoColor=white" />
+    <img src="https://img.shields.io/badge/Abstract-Enviar_aquí-402C7C?style=for-the-badge&logo=googlesheets&logoColor=white" />
   </a>
   <a href="mailto:neurooncologia.ia@gmail.com">
-    <img src="https://img.shields.io/badge/Consultas-Email-F4B400?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Consultas-Email-38585B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -113,10 +113,10 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
 <p align="center">
   <a href="https://link.springer.com/article/10.1007/s10334-025-01278-8">
-    <img src="https://img.shields.io/badge/Ver_en_ESMRMB_2025-007A33?style=for-the-badge&logo=springer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver_en_ESMRMB_2025-496C76?style=for-the-badge&logo=springer&logoColor=white" />
   </a>
   <a href="https://ieeexplore.ieee.org/document/11302837">
-    <img src="https://img.shields.io/badge/Ver_en_ICPRS_2025-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ver_en_ICPRS_2025-533A72?style=for-the-badge&logo=ieee&logoColor=white" />
   </a>
 </p>
 
