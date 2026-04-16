@@ -134,6 +134,19 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
   doi={10.1109/ICPRS64124.2025.11302837}
 }
 
+@article{Franco2025ESMRMB,
+  title={Explainable machine learning models for radiomic-based assessment of glioma severity using multiparametric MRI (Abstract \#215)},
+  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Ra{\'u}l and Espinoza, Ignacio and Bennet, Carlos and Torres, Francisco and Chabert, Steren and Salas, Rodrigo},
+  journal={Magnetic Resonance Materials in Physics, Biology and Medicine},
+  volume={38},
+  number={1},
+  pages={201--202},
+  year={2025},
+  publisher={Springer},
+  doi={10.1007/s10334-025-01278-8},
+  url={https://doi.org/10.1007/s10334-025-01278-8}
+}
+
 ```
 
 ---
