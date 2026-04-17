@@ -43,22 +43,17 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 
 La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab**, ya que no requiere instalación local.
 
-1.  **Selecciona el módulo:** Haz clic en el botón **"Open In Colab"** de la actividad deseada.
-2.  **Configuración de Datos:** Los notebooks cargan automáticamente los archivos desde este repositorio. Ejecuta las celdas en orden.
-3.  **Interactividad:** Los laboratorios están diseñados como entornos de exploración dinámica. En cada módulo encontrarás herramientas interactivas para manipular datos médicos en tiempo real:
+1. **Selecciona el módulo:** Haz clic en el botón **"Open In Colab"** de la actividad deseada.
+2. **Configuración de Datos:** Los notebooks cargan automáticamente los archivos desde este repositorio. Ejecuta las celdas en orden correlativo.
+3. **Interactividad:** Los laboratorios están diseñados como entornos de exploración dinámica. En cada módulo encontrarás herramientas interactivas para manipular datos médicos en tiempo real:
 
-  * **Manipulación del Espacio K:** Utiliza *sliders* para filtrar frecuencias en el dominio de Fourier. Observa instantáneamente cómo la eliminación de información afecta la reconstrucción de la imagen y la visibilidad de estructuras tumorales.
-
-  * **Exploración de Mapas de Relajación ($T1$/$T2$):** Interactúa con los algoritmos de ajuste para visualizar mapas paramétricos que diferencian tejidos sanos de lesiones oncológicas.
-
- * **Conectividad y Hemodinámica:**
-    *  **fMRI:** Explora umbrales de activación estadística para identificar redes funcionales cerebrales.
-
-    * **Vasculatura:** Ajusta niveles de segmentación en proyecciones TOF para aislar la red vascular cerebral.
-
-    * **DTI:** Visualiza la anisotropía y la integridad de los tractos de materia blanca afectados por el edema o la infiltración tumoral.
-  * **Simulador Clínico e IA Interpretable (SHAP):** En el módulo de clasificación de gliomas, ajusta variables del paciente (edad, volumen, ubicación) y observa cómo el modelo de IA actualiza sus predicciones y explicaciones visuales.
-
+    * **Manipulación del Espacio K:** Utiliza *sliders* para filtrar frecuencias en el dominio de Fourier. Observa instantáneamente cómo la eliminación de información afecta la reconstrucción de la imagen y la visibilidad de estructuras tumorales.
+    * **Exploración de Mapas de Relajación (T1/T2):** Interactúa con los algoritmos de ajuste para visualizar mapas paramétricos que diferencian tejidos sanos de lesiones oncológicas.
+    * **Conectividad y Hemodinámica:**
+        * **fMRI:** Explora umbrales de activación estadística para identificar redes funcionales cerebrales.
+        * **Vasculatura:** Ajusta niveles de segmentación en proyecciones TOF para aislar la red vascular cerebral.
+        * **DTI:** Visualiza la anisotropía y la integridad de los tractos de materia blanca afectados por el edema o la infiltración tumoral.
+    * **Simulador Clínico e IA Interpretable (SHAP):** En el módulo de clasificación de gliomas, ajusta variables del paciente (edad, volumen, ubicación) y observa cómo el modelo de IA actualiza sus predicciones y explicaciones visuales.
 ---
 
 ## Actividades del Workshop
