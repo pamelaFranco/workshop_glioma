@@ -58,27 +58,27 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 ## Actividades del Workshop
 
-### Actividad 1: Fundamentos del Espacio K y Formación de Imágenes
+### *Hands-on* I: Fundamentos del Espacio K y Formación de Imágenes
 * **Objetivo:** Comprender la relación entre el Espacio K y la imagen real mediante la Transformada de Fourier.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/EspacioK.ipynb)
 
-### Actividad 2: Generación de Mapas Paramétricos ($T1$ y $T2$)
+### *Hands-on* II: Generación de Mapas Paramétricos ($T1$ y $T2$)
 * **Objetivo:** Calcular mapas de tiempos de relajación utilizando modelos de ajuste no lineal.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
-### Actividad 3: Mapas de Difusión ($DTI$)
+### *Hands-on* III: Mapas de Difusión ($DTI$)
 * **Objetivo:** Mapear la arquitectura funcional del cerebro mediante el análisis de correlaciones de señales de baja frecuencia en estado de reposo ($rs-fMRI$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
-### Actividad 4: Mapeo Funcional ($fMRI$)
+### *Hands-on* IV: Mapeo Funcional ($fMRI$)
 * **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$), Difusividad Media ($MD$), Difusividad Radial ($RD$) y Difusividad Axial ($AD$) para caracterizar la infiltración tumoral.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/fMRI.ipynb)
 
-### Actividad 5: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
+### *Hands-on* V: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
 * **Objetivo:** Reconstrucción de la vasculatura mediante el uso de imágenes adquiridas en la secuencia Time-Of-Flight ($TOF-MRA$) y la aplicación de la Proyección de Máxima Intensidad ($MIP$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Vasculatura_Cerebral.ipynb)
 
-### Actividad 6: Predicción de Severidad con IA (Radiómica)
+### *Hands-on* VI: Predicción de Severidad con IA (Radiómica)
 * **Objetivo:** Modelar la severidad del tumor mediante Machine Learning interpretable (Caja Blanca).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Glioma_classification.ipynb)
 
