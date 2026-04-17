@@ -5,13 +5,13 @@
 ---
 
 <p align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Inscripción-Workshop-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" />
   </a>
-  <a href="https://github.com/pamelaFranco/workshop_glioma/blob/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
+  <a href="https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Programa-PDF-A63737?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/neuro_artint/">
+  <a href="https://www.instagram.com/neuro_artint/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-NeuroArtInt-F2A20C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
