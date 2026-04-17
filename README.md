@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Inscripción-Workshop-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" alt="Inscripción" />
   </a>
 
-  <a href="https://github.com/pamelaFranco/workshop_glioma/blob/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pamelaFranco/workshop_glioma/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Programa-PDF-A63737?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Programa" />
   </a>
 
