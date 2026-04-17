@@ -8,7 +8,7 @@
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing">
     <img src="https://img.shields.io/badge/Inscripción-Workshop-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" />
   </a>
-  <a href="https://github.com/pamelaFranco/workshop_glioma/raw/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
+  <a href="https://github.com/pamelaFranco/workshop_glioma/blob/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf">
     <img src="https://img.shields.io/badge/Programa-PDF-A63737?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/neuro_artint/">
