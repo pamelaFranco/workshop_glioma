@@ -209,6 +209,7 @@ Debes enviarlo antes del **15 de noviembre de 2026** utilizando los botones de i
 
 **¿El evento entrega algún respaldo institucional?**
 El *workshop* cuenta con el respaldo de la **UNAB, PUC y FALP**, además del apoyo de la red **IEEE EMBS Chile**.
+
 --- 
 
 ## License
