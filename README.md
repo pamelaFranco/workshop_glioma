@@ -32,10 +32,27 @@
 
 | Fecha | Horario | Lugar |
 | :---: | :---: | :---: |
-| 10 de diciembre de 2026 | 8:00 AM - 17:00 | **Auditorio Zócalo**, Universidad Andrés Bello <br> (Antonio Varas 880, Providencia) |
+| 10 de diciembre de 2026 | 8:00 AM - 17:00 | **Auditorio Zócalo**, Universidad Andrés Bello <br> (Antonio Varas 880, Providencia, Santiago, Chile) |
 
 ---
+## Expositores y Especialistas
+Contamos con un equipo multidisciplinario de expertos en física, ingeniería y oncología:
 
+| Ponente | Institución | Especialidad | ORCID |
+| :--- | :--- | :--- | :--- |
+| **Especialista Clínico** | FALP |Neurooncología Clínica | [![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)|
+| **Dr. Ignacio Espinoza** | PUC |Física de la RM |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2400-4498)|
+| **Dr. Hernán Mella** | PUCV | Por definir |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8712-146X)|
+| **MSc. Cristian Montalba** | PUC - iHEALTH | Difusión y Tractografía|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3370-0233)|
+| **Dra. M. Daniela Cornejo** | PUC |Mapeo Funcional fMRI |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0425-5721)|
+| **Dr. David Ortiz-Puerta** | UV - iHEALTH | PINNs y Modelado BOLD|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)|
+| **Dr. Antonio Eblen-Zajjur** | UA | Neurovascular y fNIRS|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0077-0318)|
+| **Dr. Julio Sotelo** | USM - iHEALTH | Hemodinámica y FEM|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0915-5215)|
+| **Dra. Paola Caprile** | PUC - iHEALTH | Radiómica y ML|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7060-262X)|
+| **Dra. Pamela Franco** | UNAB |IA e Interpretabilidad|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7629-3653)|
+| **Dr. Diego Mellado** | UNAB - ITISB | Interpretabilidad Visual|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8078-253X)|
+
+---
 ## Introducción
 Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra seis fases críticas del análisis de imágenes médicas:
 
@@ -76,11 +93,11 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/T1_T2_maps.ipynb)
 
 ### *Hands-on* III: Mapas de Difusión ($DTI$)
-* **Objetivo:** Mapear la arquitectura funcional del cerebro mediante el análisis de correlaciones de señales de baja frecuencia en estado de reposo ($rs-fMRI$).
+* **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$), Difusividad Media ($MD$), Difusividad Radial ($RD$) y Difusividad Axial ($AD$) para caracterizar la infiltración tumoral.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/DTI_mapas_difusion.ipynb)
 
 ### *Hands-on* IV: Mapeo Funcional ($fMRI$)
-* **Objetivo:** Obtener mapas de Fracción de Anisotropía ($FA$), Difusividad Media ($MD$), Difusividad Radial ($RD$) y Difusividad Axial ($AD$) para caracterizar la infiltración tumoral.
+* **Objetivo:** Mapear la arquitectura funcional del cerebro mediante el análisis de correlaciones de señales de baja frecuencia en estado de reposo ($rs-fMRI$).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/fMRI.ipynb)
 
 ### *Hands-on* V: Hemodinámica y Biomecánica Cerebral ($TOF-MRA$)
@@ -119,7 +136,6 @@ Invitamos a investigadores y especialistas a presentar trabajos relacionados con
 Si prefieres ejecución local, requiere:
 * Python 3.10+
 * Librerías: `pandas`, `numpy`, `scikit-learn`, `nibabel`, `dipy`, `nilearn`, `shap`, `matplotlib`, `scipy`.
-
 
 ---
 
@@ -176,7 +192,23 @@ Si utilizas este código o dataset para tu investigación, por favor cita los si
 ##  Agradecimientos
 Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
 
+---
+## Preguntas Frecuentes (FAQ)
 
+**¿Es necesario instalar software especializado?**
+No. El workshop está diseñado para ejecutarse en **Google Colab**. Solo necesitas una cuenta de Google y conexión a internet.
+
+**¿Qué nivel de conocimientos técnicos se requiere?**
+El taller es de inmersión técnica. Se recomienda familiaridad básica con Python, aunque los *notebooks* están guiados paso a paso para que perfiles clínicos puedan seguirlos.
+
+**¿Habrá premios por la presentación de trabajos?**
+Sí. El comité científico premiará al **Mejor Póster con $100.000 CLP** en efectivo, además de menciones honrosas.
+
+**¿Cómo envío mi resumen?**
+Debes enviarlo antes del **15 de noviembre de 2026** utilizando los botones de inscripción o envío de *abstracts* al inicio de este README.
+
+**¿El evento entrega algún respaldo institucional?**
+El *workshop* cuenta con el respaldo de la **UNAB, PUC y FALP**, además del apoyo de la red **IEEE EMBS Chile**.
 --- 
 
 ## License
