@@ -51,6 +51,7 @@ Contamos con un equipo multidisciplinario de expertos en física, ingeniería y 
 | **Dra. Paola Caprile** | PUC - iHEALTH | Radiómica y ML|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7060-262X)|
 | **Dra. Pamela Franco** | UNAB |IA e Interpretabilidad|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7629-3653)|
 | **Dr. Diego Mellado** | UNAB - ITISB | Interpretabilidad Visual|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8078-253X)|
+| **Dra. Liliana Jorquera** | UNAB - EMBS | IEEE EMBS Chile | [![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6530-2080) |
 
 ---
 ## Introducción
