@@ -48,6 +48,7 @@ Contamos con un equipo multidisciplinario de expertos en física, ingeniería y 
 | **Dr. David Ortiz-Puerta** | UV - iHEALTH | PINNs y Modelado BOLD|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)|
 | **Dr. Antonio Eblen-Zajjur** | UA | Neurovascular y fNIRS|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0077-0318)|
 | **Dr. Julio Sotelo** | USM - iHEALTH | Hemodinámica y FEM|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0915-5215)|
+| **Dr. Domingo Mery** | PUC - iHEALTH - CENIA | Por definir|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4748-3882)|
 | **Dra. Paola Caprile** | PUC - iHEALTH | Radiómica y ML|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7060-262X)|
 | **Dra. Pamela Franco** | UNAB |IA e Interpretabilidad|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7629-3653)|
 | **Dr. Diego Mellado** | UNAB - ITISB | Interpretabilidad Visual|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8078-253X)|
@@ -144,16 +145,16 @@ Si prefieres ejecución local, requiere:
 
 Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
-<p align="center">
-  <a href="https://link.springer.com/article/10.1007/s10334-025-01278-8">
-    <img src="https://img.shields.io/badge/Ver_en_ESMRMB_2025-496C76?style=for-the-badge&logo=springer&logoColor=white" />
-  </a>
-  <a href="https://ieeexplore.ieee.org/document/11302837">
-    <img src="https://img.shields.io/badge/Ver_en_ICPRS_2025-533A72?style=for-the-badge&logo=ieee&logoColor=white" />
-  </a>
-</p>
+| Publicación | Acceso Directo |
+| :--- | :--- |
+| **Paper Principal (MAGMA 2026)** | [Leer Artículo](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
+| **Conferencia ICPRS 2025** | [Ver en IEEE Xplore](https://ieeexplore.ieee.org/document/11302837) |
+| **Abstract ESMRMB 2025** | [Ver en Springer](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
 
-Si utilizas este código o dataset para tu investigación, por favor cita los siguientes trabajos:
+Si utilizas este código para tu investigación, por favor cita los siguientes trabajos:
+
+<details>
+<summary><b>Haz clic aquí para ver las citas en formato BibTeX</b></summary>
 
 ```bibtex
 @article{Franco2026Glioma,
@@ -196,20 +197,17 @@ Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Unive
 ---
 ## Preguntas Frecuentes (FAQ)
 
-**¿Es necesario instalar software especializado?**
-No. El workshop está diseñado para ejecutarse en **Google Colab**. Solo necesitas una cuenta de Google y conexión a internet.
+1. **¿Es necesario instalar software especializado?**
+   No. El workshop está diseñado para ejecutarse en **Google Colab**. Solo necesitas una cuenta de Google y conexión a internet.
 
-**¿Qué nivel de conocimientos técnicos se requiere?**
-El taller es de inmersión técnica. Se recomienda familiaridad básica con Python, aunque los *notebooks* están guiados paso a paso para que perfiles clínicos puedan seguirlos.
+2. **¿Qué nivel de conocimientos técnicos se requiere?**
+   El taller es de inmersión técnica. Se recomienda familiaridad básica con Python, aunque los *notebooks* están guiados paso a paso para que perfiles clínicos puedan seguirlos.
 
-**¿Habrá premios por la presentación de trabajos?**
-Sí. El comité científico premiará al **Mejor Póster con $100.000 CLP** en efectivo, además de menciones honrosas.
+3. **¿Habrá premios por la presentación de trabajos?**
+   Sí. El comité científico premiará al **Mejor Póster con $100.000 CLP** en efectivo, además de menciones honrosas.
 
-**¿Cómo envío mi resumen?**
-Debes enviarlo antes del **15 de noviembre de 2026** utilizando los botones de inscripción o envío de *abstracts* al inicio de este README.
-
-**¿El evento entrega algún respaldo institucional?**
-El *workshop* cuenta con el respaldo de la **UNAB, PUC y FALP**, además del apoyo de la red **IEEE EMBS Chile**.
+4. **¿Cómo envío mi resumen?**
+   Debes enviarlo antes del **15 de noviembre de 2026** utilizando los botones de inscripción o envío de *abstracts* al inicio de este README.
 
 --- 
 
