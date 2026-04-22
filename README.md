@@ -32,7 +32,7 @@
 
 | Fecha | Horario | Lugar |
 | :---: | :---: | :---: |
-| 10 de diciembre de 2026 | 8:00 AM - 17:00 | **Auditorio Zócalo**, Universidad Andrés Bello <br> (Antonio Varas 880, Providencia, Santiago, Chile) |
+| 10 de diciembre de 2026 | 8:00 AM - 17:00 PM| **Auditorio Zócalo**, Universidad Andrés Bello <br> (Antonio Varas 880, Providencia, Santiago, Chile) |
 
 ---
 ## Expositores y Especialistas
