@@ -147,9 +147,9 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 
 | Publicación | Acceso Directo |
 | :--- | :--- |
-| **Paper Principal (MAGMA 2026)** | [Leer Artículo](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
-| **Conferencia ICPRS 2025** | [Ver en IEEE Xplore](https://ieeexplore.ieee.org/document/11302837) |
-| **Abstract ESMRMB 2025** | [Ver en Springer](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
+| **Paper Principal (Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA) 2026)** | [Leer Artículo](https://link.springer.com/article/10.1007/s10334-026-01346-7) |
+| **Conferencia International Conference on Pattern Recognition Systems (ICPRS) 2025** | [Ver en IEEE Xplore](https://ieeexplore.ieee.org/document/11302837) |
+| **Abstract European Society of Magnetic Resonance in Medicine and Biology (ESMRMB) 2025** | [Ver en Springer](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
 
 Si utilizas este código para tu investigación, por favor cita los siguientes trabajos:
 
