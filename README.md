@@ -143,7 +143,7 @@ Si prefieres ejecución local, requiere:
 
 ## Respaldo Científico y Cita
 
-Este laboratorio virtual implementa los findazgos descritos en el estudio:
+Este laboratorio virtual implementa los findazgos descritos en los estudios:
 
 | Publicación | Acceso Directo |
 | :--- | :--- |
@@ -151,7 +151,7 @@ Este laboratorio virtual implementa los findazgos descritos en el estudio:
 | **Conferencia International Conference on Pattern Recognition Systems (ICPRS) 2025** | [Ver en IEEE Xplore](https://ieeexplore.ieee.org/document/11302837) |
 | **Abstract European Society of Magnetic Resonance in Medicine and Biology (ESMRMB) 2025** | [Ver en Springer](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
 
-Si utilizas este código para tu investigación, por favor cita los siguientes trabajos:
+Si utilizas este código o hallazgos para tu investigación, por favor cita los siguientes trabajos:
 
 <details>
 <summary><b>Haz clic aquí para ver las citas en formato BibTeX</b></summary>
