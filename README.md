@@ -56,14 +56,15 @@ Contamos con un equipo multidisciplinario de expertos en física, ingeniería y 
 
 ---
 ## Introducción
-Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra seis fases críticas del análisis de imágenes médicas:
+Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra siete fases críticas del análisis de imágenes médicas:
 
 1. **Fundamentos del Espacio K:** Exploración del dominio de la frecuencia en RM.
-2. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$).
-3. **Microestructura Tisular:** Procesamiento de Tensores de Difusión ($DTI$).
-4. **Mapeo Funcional:** Exploración de la dinámica de la señal $BOLD$ y $fMRI$.
-5. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
-6. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
+2. **Simulación de Secuencias:** Modelado interactivo de las ecuaciones de Bloch para entender el contraste ($TR$, $TE$, $\alpha$).
+3. **Física de Resonancia:** Generación de mapas paramétricos ($T1$ y $T2$).
+4. **Microestructura Tisular:** Procesamiento de Tensores de Difusión ($DTI$).
+5. **Mapeo Funcional:** Exploración de la dinámica de la señal $BOLD$ y $fMRI$.
+6. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
+7. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
 
 ---
 
@@ -75,7 +76,8 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 2. **Configuración de Datos:** Los notebooks cargan automáticamente los archivos desde este repositorio. Ejecuta las celdas en orden correlativo.
 3. **Interactividad:** Los laboratorios están diseñados como entornos de exploración dinámica. En cada módulo encontrarás herramientas interactivas para manipular datos médicos en tiempo real:
 
-    * **Manipulación del Espacio K:** Utiliza *sliders* para filtrar frecuencias en el dominio de Fourier. Observa instantáneamente cómo la eliminación de información afecta la reconstrucción de la imagen y la visibilidad de estructuras tumorales.
+    * **Manipulación del Espacio K:** Utiliza *sliders* para filtrar frecuencias en el dominio de Fourier. Observa instantáneamente cómo la eliminación de información afecta la reconstrucción de la imagen.
+    * **Simulación de Magnetización (Ecuaciones de Bloch):** Ajusta parámetros de adquisición ($TR$, $TE$, $\alpha$) y constantes de tejido ($T1$, $T2$) para observar las curvas de relajación y entender la física detrás de la generación de contraste en el fantoma.
     * **Exploración de Mapas de Relajación (T1/T2):** Interactúa con los algoritmos de ajuste para visualizar mapas paramétricos que diferencian tejidos sanos de lesiones oncológicas.
     * **Conectividad y Hemodinámica:**
         * **fMRI:** Explora umbrales de activación estadística para identificar redes funcionales cerebrales.
@@ -86,9 +88,13 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 ## Actividades del Workshop
 
-### *Hands-on* I: Fundamentos del Espacio K y Formación de Imágenes
+### *Hands-on* I.A: Fundamentos del Espacio K y Formación de Imágenes
 * **Objetivo:** Comprender la relación entre el Espacio K y la imagen real mediante la Transformada de Fourier.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/EspacioK.ipynb)
+
+### *Hands-on* I.B: Simulador Interactivo de Secuencias (Ecuaciones de Bloch)
+* **Objetivo:** Experimentar en tiempo real con los parámetros de adquisición ($TR$, $TE$, $\alpha$) y observar su efecto en la magnetización y el contraste del fantoma.
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/simulados_secuencias.ipynb)
 
 ### *Hands-on* II: Generación de Mapas Paramétricos ($T1$ y $T2$)
 * **Objetivo:** Calcular mapas de tiempos de relajación utilizando modelos de ajuste no lineal.
