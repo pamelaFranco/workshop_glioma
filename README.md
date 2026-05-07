@@ -94,7 +94,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 
 ### *Hands-on* I.B: Simulador Interactivo de Secuencias (Ecuaciones de Bloch)
 * **Objetivo:** Experimentar en tiempo real con los parámetros de adquisición ($TR$, $TE$, $\alpha$) y observar su efecto en la magnetización y el contraste del fantoma.
-* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/simulados_secuencias.ipynb)
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/simulador_secuencias.ipynb)
 
 ### *Hands-on* II: Generación de Mapas Paramétricos ($T1$ y $T2$)
 * **Objetivo:** Calcular mapas de tiempos de relajación utilizando modelos de ajuste no lineal.
