@@ -27,7 +27,19 @@
 </p>
 
 ---
+## Tabla de Contenidos
+* [Información del Evento](#información-del-evento)
+* [Expositores y Especialistas](#expositores-y-especialistas)
+* [Introducción](#introducción)
+* [Cómo usar este Workshop](#cómo-usar-este-workshop)
+* [Actividades del Workshop](#actividades-del-workshop)
+* [Envío de Resúmenes](#envío-de-resúmenes-abstracts)
+* [Estructura del Repositorio](#estructura-del-repositorio)
+* [Requisitos Técnicos](#requisitos-técnicos-uso-local)
+* [Respaldo Científico y Cita](#respaldo-científico-y-cita)
+* [Preguntas Frecuentes](#preguntas-frecuentes-faq)
 
+---
 ##  Información del Evento
 
 | Fecha | Horario | Lugar |
@@ -132,12 +144,12 @@ Invitamos a investigadores y especialistas a presentar trabajos relacionados con
 
 ## Estructura del Repositorio
 
-* **`Code/`**: Notebooks `.ipynb` de todas las actividades.
-* **`Dataset/`**: Archivos `.mat`, `.nii.gz`, `.dcm` y `.csv` necesarios para los análisis.
+* **`Code/`**: Notebooks `.ipynb` ($Hands-on$).
+* **`Dataset/`**: Datos multimodales (`.mat`, `.nii.gz`, `.dcm` y `.csv`).
 * **`Figuras/`**: Recursos visuales y diagramas explicativos.
 * **`Formato Abstract/`**: Planillas para escribir el resumen ($abstract$) en formato Word y LaTeX.
 * **`Template/`**: Formato editable de la charla (PPTX) e instrucciones del formato póster a presentar el día del evento.
-* **`Programa/`**: Cronograma del workshop con los expositores y sus horarios.
+* **`Programa/`**: Cronograma detallado en PDF.
 ---
 
 ## Requisitos Técnicos (Uso Local)
