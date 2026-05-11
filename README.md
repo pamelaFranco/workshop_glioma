@@ -210,11 +210,6 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
 
 
 ---
-
-##  Agradecimientos
-Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
-
----
 ## Preguntas Frecuentes (FAQ)
 
 1. **¿El workshop tiene algún costo asociado?** **No, el taller es totalmente gratuito.** Sin embargo, los cupos son limitados; para asegurar tu lugar, es indispensable completar el **formulario de inscripción**.
@@ -226,6 +221,11 @@ Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Unive
 4. **¿Habrá premios por la presentación de trabajos?** Sí. El comité científico premiará al **Mejor Póster con $100.000 CLP** en efectivo, además de menciones honrosas.
 
 5. **¿Cómo envío mi resumen?** Debes enviarlo antes del **15 de noviembre de 2026** utilizando los botones de inscripción o envío de *abstracts* al inicio de este README.
+
+---
+
+##  Agradecimientos
+Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
 
 --- 
 
