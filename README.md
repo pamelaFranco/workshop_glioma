@@ -82,6 +82,16 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 
 ## Cómo usar este Workshop
 
+### Obtener los materiales
+Puedes trabajar con los materiales de este workshop de dos maneras:
+
+* **Opción A (Recomendada):** Clonar el repositorio localmente mediante Git ejecutando en tu terminal:
+    ```bash
+    git clone [https://github.com/pamelaFranco/workshop_glioma.git](https://github.com/pamelaFranco/workshop_glioma.git)
+    ```
+* **Opción B:** Descargar el archivo comprimido directamente en formato ZIP haciendo [clic aquí](https://github.com/pamelaFranco/workshop_glioma/archive/refs/heads/main.zip) (o desde el botón verde **"Code" > "Download ZIP"** en la parte superior de esta página de GitHub).
+
+### Ejecución de las actividades
 La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab**, ya que no requiere instalación local.
 
 1. **Selecciona el módulo:** Haz clic en el botón **"Open In Colab"** de la actividad deseada.
