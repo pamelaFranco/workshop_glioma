@@ -76,7 +76,7 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 4. **Microestructura Tisular:** Procesamiento de Tensores de Difusión ($DTI$).
 5. **Mapeo Funcional:** Exploración de la dinámica de la señal $BOLD$ y $fMRI$.
 6. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
-7. **Radiómica:** Extracción de características cuantitativas de grado médico a partir de la distribución de grises en imágenes digitales.
+7. **Extracción de Características de Radiómica:** Extracción de características cuantitativas de grado médico a partir de la distribución de grises en imágenes digitales.
 7. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
 
 ---
