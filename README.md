@@ -143,7 +143,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/radiomics.ipynb)
 
 ### *Hands-on* VII.A: Clasificación y Pipeline Radiómico 
-* **Objetivo:** Construir un pipeline de Machine Learning para clasificar el grado tumoral (LGG vs. HGG) a partir de firmas radiómicas..
+* **Objetivo:** Construir un pipeline de Machine Learning para clasificar el grado tumoral (LGG vs. HGG) a partir de firmas radiómicas.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/ML.ipynb)
 
 ### *Hands-on* VII.B: Predicción de Severidad con IA 
