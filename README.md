@@ -68,7 +68,7 @@ Contamos con un equipo multidisciplinario de expertos en física, ingeniería y 
 
 ---
 ## Introducción
-Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra ocho fases críticas del análisis de imágenes médicas:
+Este repositorio contiene los materiales para el laboratorio virtual sobre neurooncología de precisión. El workshop integra nueve fases críticas del análisis de imágenes médicas:
 
 1. **Fundamentos del Espacio K:** Exploración del dominio de la frecuencia en RM.
 2. **Simulación de Secuencias:** Modelado interactivo de las ecuaciones de Bloch para entender el contraste ($TR$, $TE$, $\alpha$).
@@ -77,7 +77,8 @@ Este repositorio contiene los materiales para el laboratorio virtual sobre neuro
 5. **Mapeo Funcional:** Exploración de la dinámica de la señal $BOLD$ y $fMRI$.
 6. **Hemodinámica y Biomecánica:** Reconstrucción de vasculatura mediante $TOF-MRA$.
 7. **Extracción de Características de Radiómica:** Extracción de características cuantitativas de grado médico a partir de la distribución de grises en imágenes digitales.
-7. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
+8. **Pipeline Radiómico para la Clasificación de Gliomas (LGG vs. HGG):** Selección de características críticas y clasificación automatizada a partir de métricas extraídas de resonancia magnética en T1, utilizando datos clínicos reales para diferenciar bajo y alto grado.
+9. **IA Interpretable:** Decodificación de severidad mediante radiómica y $SHAP$.
 
 ---
 
@@ -107,6 +108,7 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
         * **Vasculatura:** Ajusta niveles de segmentación en proyecciones TOF para aislar la red vascular cerebral.
         * **DTI:** Visualiza la anisotropía y la integridad de los tractos de materia blanca afectados por el edema o la infiltración tumoral.
     * **Extracción de Características de Radiómica:** Este módulo actúa como una 'biopsia virtual por software' que extrae la firma digital oculta del glioma, transformando los patrones visuales de la resonancia magnética en mapas de colores y números que miden objetivamente la agresividad, el caos y la heterogeneidad del tumor.
+    * **Flujo de Procesamiento y Clasificación Automatizada:** Un pipeline integrado que transforma el caos de los datos radiómicos en un diagnóstico preciso. El sistema normaliza las variables y aplica un filtro de varianza para retener las características críticas; luego, proyecta estas firmas multidimensionales en un mapa visual bidimensional y entrena un clasificador probabilístico para diferenciar LGG de HGG, evaluando rigurosamente su rendimiento mediante métricas de sensibilidad y matrices de confusión clínica.
     * **Simulador Clínico e IA Interpretable (SHAP):** En el módulo de clasificación de gliomas, ajusta variables del paciente (edad, volumen, ubicación) y observa cómo el modelo de IA actualiza sus predicciones y explicaciones visuales.
 ---
 
@@ -140,7 +142,11 @@ La forma más sencilla de ejecutar el laboratorio es a través de **Google Colab
 * **Objetivo:** Cuantificar la microestructura y heterogeneidad del glioma mediante la extracción de características radiómicas de textura de segundo orden (GLCM) a nivel de vóxel.
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/radiomics.ipynb)
 
-### *Hands-on* VII: Predicción de Severidad con IA 
+### *Hands-on* VII.A: Clasificación y Pipeline Radiómico 
+* **Objetivo:** Construir un pipeline de Machine Learning para clasificar el grado tumoral (LGG vs. HGG) a partir de firmas radiómicas..
+* **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/ML.ipynb)
+
+### *Hands-on* VII.B: Predicción de Severidad con IA 
 * **Objetivo:** Modelar la severidad del tumor mediante Machine Learning interpretable (Caja Blanca).
 * **Cuaderno:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pamelaFranco/workshop_glioma/blob/main/Code/Glioma_classification.ipynb)
 
