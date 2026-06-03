@@ -54,7 +54,7 @@ Contamos con un equipo multidisciplinario de expertos en física, ingeniería y 
 | :--- | :--- | :--- | :--- |
 | **Especialista Clínico** | FALP |Neurooncología Clínica | [![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)|
 | **Dr. Ignacio Espinoza** | UC |Física de la RM |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2400-4498)|
-| **Dr. Hernán Mella** | PUCV | Por definir |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8712-146X)|
+| **Dr. Hernán Mella** | PUCV | Artefactos en RM |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8712-146X)|
 | **MSc. Cristian Montalba** | UC - iHEALTH | Difusión y Tractografía|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3370-0233)|
 | **Dra. M. Daniela Cornejo** | UC |Mapeo Funcional fMRI |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0425-5721)|
 | **Dr. David Ortiz-Puerta** | UV - iHEALTH | PINNs y Modelado BOLD|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6285-3066)|
