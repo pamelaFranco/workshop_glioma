@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Consultas-Email-38585B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 ## Tabla de Contenidos
 * [Información del Evento](#información-del-evento)
