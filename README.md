@@ -280,7 +280,7 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
   </a>
 </p>
 
----
+
 --- 
 
 ## License
