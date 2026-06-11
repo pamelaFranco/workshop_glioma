@@ -257,7 +257,7 @@ Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Unive
 ---
 ## Alianza e Integración Internacional
 
-Este workshop se presenta en el marco de **REBECCA-IA**: la *Red Iberoamericana para el Control Inteligente e Individualizado en el Tratamiento del Cáncer con Inteligencia Artificial*, impulsada por el [Instituto Tecnológico de Medellín (ITM)](https://www.itm.edu.co).
+Este workshop se presenta en el marco de **REBECCA-IA**: la *Re*d I*Be*roamericana para el *C*ontrol Inteligente e Individualizado en el Tratamiento del *Cá*ncer con *I*nteligencia *A*rtificial*, financiada por el Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED).
 
 <br>
 
