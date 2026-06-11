@@ -254,6 +254,14 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
 ##  Agradecimientos
 Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
 
+---
+<p align="center">
+  <b>Con el apoyo tecnológico de:</b><br><br>
+  <a href="[LINK_DE_REBECCA_IA] " target="_blank">
+    <img src="https://github.com/pamelaFranco/workshop_glioma/blob/main/Figuras/rebeccaia.svg" alt="Logo Rebecca IA" width="200"/>
+  </a>
+</p>
+
 --- 
 
 ## License
