@@ -5,7 +5,11 @@
 ---
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Inscripción-Workshop-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" alt="Inscripción" />
+    <img src="https://img.shields.io/badge/Inscripción-Presencial-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" alt="Inscripción Presencial" />
+  </a>
+
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSffyLNNJZKNM4mLKOeudr3ltQmXyKQiwgkqvS51f6Oqe73-_A/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Inscripción-Online-1182C4?style=for-the-badge&logo=zoom&logoColor=white" alt="Inscripción Online" />
   </a>
 
   <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/pamelaFranco/workshop_glioma/main/Programa/Charlas___Workshop_IA_Interpretable_Neurooncologia.pdf" target="_blank">
@@ -14,15 +18,6 @@
 
   <a href="https://www.instagram.com/neuro_artint/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-NeuroArtInt-F2A20C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing">
-    <img src="https://img.shields.io/badge/Abstract-Enviar_aquí-402C7C?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  </a>
-  <a href="mailto:neurooncologia.ia@gmail.com">
-    <img src="https://img.shields.io/badge/Consultas-Email-38585B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -42,9 +37,9 @@
 ---
 ##  Información del Evento
 
-| Fecha | Horario | Lugar |
-| :---: | :---: | :---: |
-| 10 de diciembre de 2026 | 8:00 AM - 17:00 PM| **Auditorio Zócalo**, Universidad Andrés Bello <br> (Antonio Varas 880, Providencia, Santiago, Chile) |
+| Fecha | Horario | Lugar / Modalidad |
+| :---: | :---: | :--- |
+| 10 de diciembre de 2026 | 8:00 AM - 17:00 PM (GMT-4 / Hora de Chile)| **Presencial:** Auditorio Zócalo, Universidad Andrés Bello <br> (Antonio Varas 880, Providencia, Santiago, Chile) <br><br> **Online:** Vía Zoom (Enlace enviado tras inscripción) |
 
 ---
 ## Expositores y Especialistas
