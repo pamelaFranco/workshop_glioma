@@ -21,6 +21,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScrvB4-sUyraLQAthbE9K0Ph2O1xWT8xWlNHzRo8drDvrYp3Q/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Abstract-Enviar_aquí-402C7C?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Enviar Abstract" />
+  </a>
+  
+  <a href="mailto:neurooncologia.ia@gmail.com">
+    <img src="https://img.shields.io/badge/Consultas-Email-38585B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ---
 ## Tabla de Contenidos
 * [Información del Evento](#información-del-evento)
