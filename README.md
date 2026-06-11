@@ -264,9 +264,9 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
 <br>
 
 * **RE**d
-* **I**beroamericana para el
+* I**be**roamericana para el
 * **C**ontrol Inteligente e Individualizado en el Tratamiento del
-* **C**áncer con
+* **Cá**ncer con
 * **I**nteligencia
 * **A**rtificial
 
