@@ -255,10 +255,15 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
 Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
 
 ---
-<p align="center">
-  <b>Con el apoyo tecnológico de:</b><br><br>
-  <a href="[LINK_DE_REBECCA_IA] " target="_blank">
-    <img src="https://github.com/pamelaFranco/workshop_glioma/blob/main/Figuras/rebeccaia.svg" alt="Logo Rebecca IA" width="200"/>
+## Alianza e Integración Internacional
+
+Este workshop se presenta en el marco de **REBECCA-IA**: la *Red Iberoamericana para el Control Inteligente e Individualizado en el Tratamiento del Cáncer con Inteligencia Artificial*, impulsada por el [Instituto Tecnológico de Medellín (ITM)](https://www.itm.edu.co).
+
+<br>
+
+<p align="left">
+  <a href="https://www.itm.edu.co" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/pamelaFranco/workshop_glioma/raw/main/Figuras/rebeccaia.svg" alt="Logo REBECCA-IA" width="220"/>
   </a>
 </p>
 
