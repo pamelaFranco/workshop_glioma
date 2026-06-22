@@ -3,6 +3,15 @@
 # Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal
 
 ---
+
+<p align="left">
+  <a href="https://www.ismrm.org/meetings-workshops/endorsement-request/"><img src="https://img.shields.io/badge/ISMRT--Endorsed-Workshop-blue?style=flat-square&color=005A9C" height="22"></a>
+</p>
+
+> **Gran Noticia / Announcement:** ¡Este Workshop cuenta con el **respaldo y endoso oficial de la ISMRT** (International Society for Magnetic Resonance Technicians)! El patrocinio institucional fue discutido y aprobado por el comité ejecutivo durante la reunión anual en Ciudad del Cabo (Cape Town).
+
+
+---
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScVTNZGnZ7jFYkFfVNsTKiw_LQcgZfaXG4y_08lIPOTNVzjhA/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Inscripción-Presencial-074E8C?style=for-the-badge&logo=googleforms&logoColor=white" alt="Inscripción Presencial" />
@@ -41,8 +50,11 @@
 * [Envío de Resúmenes](#envío-de-resúmenes-abstracts)
 * [Estructura del Repositorio](#estructura-del-repositorio)
 * [Requisitos Técnicos](#requisitos-técnicos-uso-local)
-* [Respaldo Científico y Cita](#respaldo-científico-y-cita)
+* [Publicaciones Asociadas](#publicaciones-asociadas)
 * [Preguntas Frecuentes](#preguntas-frecuentes-faq)
+* [Alianza e Integración Internacional] (#alianza-e-integración-internacional)
+* [Reconocimiento Internacional] (#reconocimiento-internacional)
+* [Agradecimientos] (#agradecimientos)
 
 ---
 ##  Información del Evento
@@ -186,7 +198,7 @@ Si prefieres ejecución local, requiere:
 
 ---
 
-## Respaldo Científico y Cita
+## Publicaciones Asociadas
 
 Este laboratorio virtual implementa los hallazgos descritos en los estudios:
 
@@ -249,10 +261,6 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
 
 5. **¿Cómo envío mi resumen?** Debes enviarlo antes del **15 de noviembre de 2026** utilizando los botones de inscripción o envío de *abstracts* al inicio de este README.
 
----
-
-##  Agradecimientos
-Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
 
 ---
 ## Alianza e Integración Internacional
@@ -281,8 +289,17 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
 </p>
 
 
---- 
+---
+## Reconocimiento Internacional
+Este workshop y su entorno de laboratorios virtuales cuentan con el **respaldo oficial (Endorsement) de la ISMRT** (*International Society for Magnetic Resonance Technicians*), ratificado por su Junta Ejecutiva durante la reunión anual en Ciudad del Cabo.
 
+
+---
+
+##  Agradecimientos
+Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
+
+--- 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
