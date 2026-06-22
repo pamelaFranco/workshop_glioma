@@ -44,6 +44,7 @@
 
 ---
 ## Tabla de Contenidos
+
 * [Información del Evento](#información-del-evento)
 * [Expositores y Especialistas](#expositores-y-especialistas)
 * [Introducción](#introducción)
@@ -54,9 +55,9 @@
 * [Requisitos Técnicos](#requisitos-técnicos-uso-local)
 * [Publicaciones Asociadas](#publicaciones-asociadas)
 * [Preguntas Frecuentes](#preguntas-frecuentes-faq)
-* [Alianza e Integración Internacional] (#alianza-e-integración-internacional)
-* [Reconocimiento Internacional] (#reconocimiento-internacional)
-* [Agradecimientos] (#agradecimientos)
+* [Alianza e Integración Internacional](#alianza-e-integración-internacional)
+* [Reconocimiento Internacional](#reconocimiento-internacional)
+* [Agradecimientos](#agradecimientos)
 
 ---
 ##  Información del Evento
@@ -311,6 +312,29 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
 
 ##  Agradecimientos
 Este trabajo fue financiado por el Concurso Endowment I + D en Salud de la Universidad Andrés Bello (UNAB) 2025, proyecto DI-07-25/ICS
+
+
+---
+## Contacto, Soporte e Internacionalización
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3> Contacto y Soporte Técnico</h3>
+      <p>Si tienes dudas académicas, consultas sobre las inscripciones o experimentas problemas técnicos al ejecutar los cuadernos de Google Colab o de forma local, puedes comunicarte a través de los siguientes canales:</p>
+      <ul>
+        <li><strong>Reportar un problema:</strong> Abre un <a href="https://github.com/pamelaFranco/workshop_glioma/issues" target="_blank" rel="noopener noreferrer">Issue en GitHub</a> detallando el error.</li>
+        <li><strong>Consultas Generales:</strong> Escríbenos directamente a <a href="mailto:neurooncologia.ia@gmail.com">neurooncologia.ia@gmail.com</a>.</li>
+        <li><strong>Comunidad:</strong> Síguenos y envíanos un mensaje en nuestro Instagram oficial <a href="https://www.instagram.com/neuro_artint/" target="_blank" rel="noopener noreferrer">@neuro_artint</a>.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" style="border-left: 1px solid #ccc; padding-left: 20px;">
+      <h3> Language / Idioma</h3>
+      <p><em>The materials, documentation, and interactive notebooks in this repository are written in <strong>Spanish</strong> to support the local Latin American neuro-oncology and medical physics community.</em></p>
+      <p> <strong>Non-Spanish speakers:</strong> You can easily run and translate the Google Colab notebooks using standard browser translation extensions. The underlying Python code and medical imaging libraries (PyRadiomics, NiLearn, DIPY) follow international standards.</p>
+    </td>
+  </tr>
+</table>
 
 --- 
 ## License
