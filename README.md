@@ -5,9 +5,7 @@
 ---
 
 <p align="left">
-  <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer">
-    <img src="Figuras/ISMRT.png" alt="ISMRT Endorsed Workshop" height="60"/>
-  </a>
+  <a href="https://www.ismrm.org/meetings-workshops/endorsement-request/"><img src="https://img.shields.io/badge/ISMRT--Endorsed-Workshop-blue?style=flat-square&color=005A9C" height="22"></a>
 </p>
 
 > **Gran Noticia / Announcement:** ¡Este Workshop cuenta con el **respaldo y endoso oficial de la ISMRT** (International Society for Magnetic Resonance Technicians)! El patrocinio institucional fue discutido y aprobado por el comité ejecutivo durante la reunión anual en Ciudad del Cabo (Cape Town).
