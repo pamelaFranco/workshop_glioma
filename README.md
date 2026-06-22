@@ -295,7 +295,7 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
   <tr>
     <td width="25%" align="center" valign="middle">
       <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer">
-        <img src="Figuras/ISMRT.png" alt="Logo ISMRT" width="180"/>
+        <img src="Figuras/ISMRT.svg" alt="Logo ISMRT" width="180"/>
       </a>
     </td>
     <td width="75%" valign="middle">
