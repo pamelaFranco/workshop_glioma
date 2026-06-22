@@ -4,8 +4,10 @@
 
 ---
 
-<p align="left">
-  <a href="https://www.ismrm.org/meetings-workshops/endorsement-request/"><img src="https://img.shields.io/badge/ISMRT--Endorsed-Workshop-blue?style=flat-square&color=005A9C" height="22"></a>
+<p align="center">
+  <a href="https://www.ismrm.org/meetings-workshops/endorsement-request/">
+    <img src="https://img.shields.io/badge/ISMRT--Endorsed-Workshop-005A9C?style=for-the-badge" alt="ISMRT Endorsed">
+  </a>
 </p>
 
 > **Gran Noticia / Announcement:** ¡Este Workshop cuenta con el **respaldo y endoso oficial de la ISMRT** (International Society for Magnetic Resonance Technicians)! El patrocinio institucional fue discutido y aprobado por el comité ejecutivo durante la reunión anual en Ciudad del Cabo (Cape Town).
@@ -295,7 +297,7 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
   <tr>
     <td width="25%" align="center" valign="middle">
       <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer">
-        <img src="Figuras/ISMRT.png" alt="Logo ISMRT" width="180"/>
+        <img src="Figuras/ISMRT.svg" alt="Logo ISMRT" width="180"/>
       </a>
     </td>
     <td width="75%" valign="middle">
