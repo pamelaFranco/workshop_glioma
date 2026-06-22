@@ -5,7 +5,9 @@
 ---
 
 <p align="left">
-  <a href="https://www.ismrm.org/meetings-workshops/endorsement-request/"><img src="https://img.shields.io/badge/ISMRT--Endorsed-Workshop-blue?style=flat-square&color=005A9C" height="22"></a>
+  <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer">
+    <img src="Figuras/ISMRT.png" alt="ISMRT Endorsed Workshop" height="60"/>
+  </a>
 </p>
 
 > **Gran Noticia / Announcement:** ¡Este Workshop cuenta con el **respaldo y endoso oficial de la ISMRT** (International Society for Magnetic Resonance Technicians)! El patrocinio institucional fue discutido y aprobado por el comité ejecutivo durante la reunión anual en Ciudad del Cabo (Cape Town).
@@ -291,8 +293,19 @@ Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financia
 
 ---
 ## Reconocimiento Internacional
-Este workshop y su entorno de laboratorios virtuales cuentan con el **respaldo oficial (Endorsement) de la ISMRT** (*International Society for Magnetic Resonance Technicians*), ratificado por su Junta Ejecutiva durante la reunión anual en Ciudad del Cabo.
-
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer">
+        <img src="Figuras/ISMRT.png" alt="Logo ISMRT" width="180"/>
+      </a>
+    </td>
+    <td width="75%" valign="middle">
+      Este workshop y su entorno de laboratorios virtuales cuentan con el <strong>respaldo oficial (Endorsement) de la ISMRT</strong> (<em>International Society for Magnetic Resonance Technicians</em>), ratificado por su Junta Ejecutiva durante la reunión anual en Ciudad del Cabo.<br><br>
+      Para conocer más sobre la división y sus directrices internacionales, visite el sitio oficial de la <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer"><strong>ISMRT International</strong></a>.
+    </td>
+  </tr>
+</table>
 
 ---
 
