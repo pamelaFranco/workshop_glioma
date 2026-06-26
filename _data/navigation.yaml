@@ -1,0 +1,13 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Expositores"
+    url: /expositores/
+  - title: "Actividades (Hands-on)"
+    url: /actividades/
+  - title: "Envío de Resúmenes"
+    url: /resumenes/
+  - title: "Publicaciones"
+    url: /publicaciones/
+  - title: "FAQ"
+    url: /faq/

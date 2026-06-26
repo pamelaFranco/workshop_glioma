@@ -1,0 +1,15 @@
+title: "Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal"
+description: "Workshop: IA Interpretable en Neurooncología: Decodificando la severidad tumoral mediante resonancia multimodal"
+url: "https://pamelaFranco.github.io" # Cambiar por tu URL de GitHub Pages
+baseurl: "/workshop_glioma"          # El nombre de tu repositorio
+
+# Información de Contacto (Extraída del README)
+author:
+  name: "Workshop Neurooncología IA"
+  email: "neurooncologia.ia@gmail.com"
+  instagram: "neuro_artint"
+
+# Configuración de Markdown
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
