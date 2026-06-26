@@ -71,9 +71,10 @@
 ## Expositores y Especialistas
 Contamos con un equipo multidisciplinario de expertos en física, ingeniería y oncología:
 
-| Ponente | Institución | Especialidad | ORCID |
+| Ponente | Institución | Especialidad | Información |
 | :--- | :--- | :--- | :--- |
 | **Especialista Clínico** | FALP |Neurooncología Clínica | [![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)|
+| **TM. Alejandro Cerda** | UNAB - ISMRT |Protocolos Clínicos en Gliomas |[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/alejandro-cerda-escobar-53b13ba3)|
 | **Dr. Ignacio Espinoza** | UC |Física de la RM |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2400-4498)|
 | **Dr. Hernán Mella** | PUCV | Artefactos en RM |[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8712-146X)|
 | **MSc. Cristian Montalba** | UC - iHEALTH | Difusión y Tractografía|[![ORCID](https://img.shields.io/badge/ORCID-Perfil-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3370-0233)|
