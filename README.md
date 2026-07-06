@@ -277,24 +277,16 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
 
 Este workshop se presenta en el marco de **REBECCA-IA**, una iniciativa financiada por el Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED) e impulsada por el [Instituto Tecnológico de Medellín (ITM)](https://www.itm.edu.co).
 
-<details>
-<summary> <b>¿Qué significa REBECCA-IA? (Haz clic para desplegar)</b></summary>
-<br>
-
-* **RE**d
-* I**be**roamericana para el
-* **C**ontrol Inteligente e Individualizado en el Tratamiento del
-* **Cá**ncer con
-* **I**nteligencia
-* **A**rtificial
-
-</details>
+En esta edición, la red cuenta con la participación activa de las siguientes instituciones:
+* **Institución Universitaria ITM** (Medellín, Colombia)
+* **Universidad Militar Nueva Granada** (Bogotá, Colombia)
+* **Universidad de Zacatecas** (Zacatecas, México)
 
 <br>
 
 <p align="left">
   <a href="https://www.itm.edu.co" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/pamelaFranco/workshop_glioma/raw/main/Figuras/rebeccaia.svg" alt="Logo REBECCA-IA" width="220"/>
+    <img src="https://github.com/pamelaFranco/workshop_glioma/raw/main/Figuras/rebeccaia.jpg" alt="Logo REBECCA-IA" width="220"/>
   </a>
 </p>
 
