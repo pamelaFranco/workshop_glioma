@@ -212,11 +212,12 @@ Si prefieres ejecución local, requiere:
 
 Este laboratorio virtual implementa los hallazgos descritos en los estudios:
 
-| Publicación | Acceso Directo |
-| :--- | :--- |
-| **Paper Principal (Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA) 2026)** | [Leer Artículo](https://link.springer.com/article/10.1007/s10334-026-01346-7) |
-| **Conferencia International Conference on Pattern Recognition Systems (ICPRS) 2025** | [Ver en IEEE Xplore](https://ieeexplore.ieee.org/document/11302837) |
-| **Abstract European Society of Magnetic Resonance in Medicine and Biology (ESMRMB) 2025** | [Ver en Springer](https://link.springer.com/article/10.1007/s10334-025-01278-8) |
+| Publicación | Acceso Directo | Código Fuente |
+| :--- | :---: | :---: |
+| **Paper Principal (Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA) 2026)** | [Leer Artículo](https://link.springer.com/article/10.1007/s10334-026-01346-7) | [GitHub Repo](https://github.com/pamelaFranco/continuous-glioma-grading) |
+| **Conferencia (European Society for Magnetic Resonance in Medicine and Biology (ESMRMB) 2026)** | *Lightning Talk* | [GitHub Repo](https://github.com/pamelaFranco/glioma-ml-tractography) |
+| **Conferencia International Conference on Pattern Recognition Systems (ICPRS) 2025** | [Ver en IEEE Xplore](https://ieeexplore.ieee.org/document/11302837) | [GitHub Repo](https://github.com/pamelaFranco/radiomic-glioma-grading) |
+| **Abstract European Society of Magnetic Resonance in Medicine and Biology (ESMRMB) 2025** | [Ver en Springer](https://link.springer.com/article/10.1007/s10334-025-01278-8) | — |
 
 Si utilizas este código o hallazgos para tu investigación, por favor cita los siguientes trabajos:
 
@@ -229,12 +230,21 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
   author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, M. Daniela and others},
   journal={Magnetic Resonance Materials in Physics, Biology and Medicine (MAGMA)},
   year={2026},
-  note={10.1007/s10334-026-01346-7}
+  doi={10.1007/s10334-026-01346-7}
+}
+
+@inproceedings{montalba2026feasibility,
+  title={Feasibility of Tumor-Masked Structural Connectomics and Explainable Machine Learning for Assessing White Matter Disruption in Gliomas: A Pilot Study},
+  author={Montalba, Cristian and Espinoza, Ignacio and Cornejo, M. Daniela and Torres, Francisco and Bennett, Carlos and Chabert, Steren and Salas, Rodrigo and Franco, Pamela},
+  booktitle={Proceedings of the 42nd Annual Scientific Meeting of the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB 2026)},
+  year={2026},
+  address={Girona, Spain},
+  note={Lightning Talk D24 - LTD2-3, Session PG185, Abstract \#54477}
 }
 
 @inproceedings{Franco2025ICPRS,
   title={Radiomic Glioma Grading Using T1-weighted MRI vs. Diffusion Tensor Metrics: A Proof-of-Concept Comparative Analysis with Explainable Machine Learning},
-  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, and others},
+  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Cornejo, M. Daniela and others},
   booktitle={2025 15th IEEE International Conference on Pattern Recognition Systems (ICPRS)},
   pages={1--7},
   year={2025},
@@ -244,7 +254,7 @@ Si utilizas este código o hallazgos para tu investigación, por favor cita los 
 
 @article{Franco2025ESMRMB,
   title={Explainable machine learning models for radiomic-based assessment of glioma severity using multiparametric MRI (Abstract \#215)},
-  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio and Bennet, Carlos and Torres, Francisco and Chabert, Steren and Salas, Rodrigo},
+  author={Franco, Pamela and Montalba, Cristian and Caulier-Cisterna, Raúl and Espinoza, Ignacio encampment and Bennet, Carlos and Torres, Francisco and Chabert, Steren and Salas, Rodrigo},
   journal={Magnetic Resonance Materials in Physics, Biology and Medicine},
   volume={38},
   number={1},
@@ -291,7 +301,6 @@ En esta edición, la red cuenta con la participación activa de las siguientes i
 </p>
 
 
----
 ---
 ## Reconocimiento e Impulso Internacional
 
