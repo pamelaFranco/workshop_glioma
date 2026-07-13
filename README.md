@@ -60,7 +60,7 @@
 * [Publicaciones Asociadas](#publicaciones-asociadas)
 * [Preguntas Frecuentes](#preguntas-frecuentes-faq)
 * [Alianza e Integración Internacional](#alianza-e-integración-internacional)
-* [Reconocimiento Internacional](#reconocimiento-internacional)
+* [Reconocimiento e Impulso Internacional](#reconocimiento-e-impulso-internacional)
 * [Agradecimientos](#agradecimientos)
 * [Contacto, Soporte e Internacionalización](#contacto-soporte-e-internacionalización)
 
@@ -292,20 +292,47 @@ En esta edición, la red cuenta con la participación activa de las siguientes i
 
 
 ---
-## Reconocimiento Internacional
+---
+## Reconocimiento e Impulso Internacional
+
 <table border="0" width="100%">
+  <!-- Bloque ISMRT -->
   <tr>
     <td width="25%" align="center" valign="middle">
       <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer">
         <img src="Figuras/ISMRT.svg" alt="Logo ISMRT" width="180"/>
       </a>
     </td>
-    <td width="75%" valign="middle">
+    <td width="75%" valign="middle" style="padding-bottom: 20px;">
       Este workshop y su entorno de laboratorios virtuales cuentan con el <strong>respaldo oficial (Endorsement) de la ISMRT</strong> (<em>International Society for Magnetic Resonance Technicians</em>), ratificado por su Junta Ejecutiva durante la reunión anual en Ciudad del Cabo.<br><br>
       Para conocer más sobre la división y sus directrices internacionales, visite el sitio oficial de la <a href="https://www.ismrm.org/ismrt/" target="_blank" rel="noopener noreferrer"><strong>ISMRT International</strong></a>.
     </td>
   </tr>
+  
+  <!-- Bloque IEEE EMBS -->
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="Figuras/ieee-embs.png" alt="Logo IEEE EMBS" width="180"/>
+    </td>
+    <td width="75%" valign="middle" style="padding-bottom: 20px; padding-top: 20px;">
+      Asimismo, esta iniciativa cuenta con el valioso <strong>respaldo técnico y académico del Capítulo EMBS</strong> (<em>Engineering in Medicine and Biology Society</em>) de la <strong>IEEE</strong>, fortaleciendo el desarrollo y la difusión de la ingeniería biomédica y la inteligencia artificial en el ámbito de la salud.
+    </td>
+  </tr>
+
+  <!-- Bloque Guerbet -->
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <a href="https://www.guerbet.com" target="_blank" rel="noopener noreferrer">
+        <img src="Figuras/guerbet.jpg" alt="Logo Guerbet" width="180"/>
+      </a>
+    </td>
+    <td width="75%" valign="middle" style="padding-top: 20px;">
+      Agradecemos también el destacado <strong>apoyo y colaboración de Guerbet</strong>, líder global en soluciones de imagen médica y medios de contraste, cuyo compromiso contribuye activamente al éxito de este espacio de formación y actualización en neurorradiología avanzada.
+    </td>
+  </tr>
 </table>
+
+---
 
 ---
 
